@@ -1,0 +1,14 @@
+D:\SoftUni\Basics - C#\Advanced Conditionals\Advanced Conditionals\Day_of_the_week\bin\Debug\netcoreapp3.1\Day_of_the_week.exe
+D:\SoftUni\Basics - C#\Advanced Conditionals\Advanced Conditionals\Day_of_the_week\bin\Debug\netcoreapp3.1\Day_of_the_week.deps.json
+D:\SoftUni\Basics - C#\Advanced Conditionals\Advanced Conditionals\Day_of_the_week\bin\Debug\netcoreapp3.1\Day_of_the_week.runtimeconfig.json
+D:\SoftUni\Basics - C#\Advanced Conditionals\Advanced Conditionals\Day_of_the_week\bin\Debug\netcoreapp3.1\Day_of_the_week.runtimeconfig.dev.json
+D:\SoftUni\Basics - C#\Advanced Conditionals\Advanced Conditionals\Day_of_the_week\bin\Debug\netcoreapp3.1\Day_of_the_week.dll
+D:\SoftUni\Basics - C#\Advanced Conditionals\Advanced Conditionals\Day_of_the_week\bin\Debug\netcoreapp3.1\Day_of_the_week.pdb
+D:\SoftUni\Basics - C#\Advanced Conditionals\Advanced Conditionals\Day_of_the_week\obj\Debug\netcoreapp3.1\Day_of_the_week.csproj.AssemblyReference.cache
+D:\SoftUni\Basics - C#\Advanced Conditionals\Advanced Conditionals\Day_of_the_week\obj\Debug\netcoreapp3.1\Day_of_the_week.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Basics - C#\Advanced Conditionals\Advanced Conditionals\Day_of_the_week\obj\Debug\netcoreapp3.1\Day_of_the_week.AssemblyInfoInputs.cache
+D:\SoftUni\Basics - C#\Advanced Conditionals\Advanced Conditionals\Day_of_the_week\obj\Debug\netcoreapp3.1\Day_of_the_week.AssemblyInfo.cs
+D:\SoftUni\Basics - C#\Advanced Conditionals\Advanced Conditionals\Day_of_the_week\obj\Debug\netcoreapp3.1\Day_of_the_week.csproj.CoreCompileInputs.cache
+D:\SoftUni\Basics - C#\Advanced Conditionals\Advanced Conditionals\Day_of_the_week\obj\Debug\netcoreapp3.1\Day_of_the_week.dll
+D:\SoftUni\Basics - C#\Advanced Conditionals\Advanced Conditionals\Day_of_the_week\obj\Debug\netcoreapp3.1\Day_of_the_week.pdb
+D:\SoftUni\Basics - C#\Advanced Conditionals\Advanced Conditionals\Day_of_the_week\obj\Debug\netcoreapp3.1\Day_of_the_week.genruntimeconfig.cache
