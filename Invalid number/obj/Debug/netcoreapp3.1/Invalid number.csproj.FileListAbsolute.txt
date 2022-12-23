@@ -1,0 +1,13 @@
+D:\SoftUni\Basics - C#\Advanced Conditionals\Advanced Conditionals\Invalid number\bin\Debug\netcoreapp3.1\Invalid number.exe
+D:\SoftUni\Basics - C#\Advanced Conditionals\Advanced Conditionals\Invalid number\bin\Debug\netcoreapp3.1\Invalid number.deps.json
+D:\SoftUni\Basics - C#\Advanced Conditionals\Advanced Conditionals\Invalid number\bin\Debug\netcoreapp3.1\Invalid number.runtimeconfig.json
+D:\SoftUni\Basics - C#\Advanced Conditionals\Advanced Conditionals\Invalid number\bin\Debug\netcoreapp3.1\Invalid number.runtimeconfig.dev.json
+D:\SoftUni\Basics - C#\Advanced Conditionals\Advanced Conditionals\Invalid number\bin\Debug\netcoreapp3.1\Invalid number.dll
+D:\SoftUni\Basics - C#\Advanced Conditionals\Advanced Conditionals\Invalid number\bin\Debug\netcoreapp3.1\Invalid number.pdb
+D:\SoftUni\Basics - C#\Advanced Conditionals\Advanced Conditionals\Invalid number\obj\Debug\netcoreapp3.1\Invalid number.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Basics - C#\Advanced Conditionals\Advanced Conditionals\Invalid number\obj\Debug\netcoreapp3.1\Invalid number.AssemblyInfoInputs.cache
+D:\SoftUni\Basics - C#\Advanced Conditionals\Advanced Conditionals\Invalid number\obj\Debug\netcoreapp3.1\Invalid number.AssemblyInfo.cs
+D:\SoftUni\Basics - C#\Advanced Conditionals\Advanced Conditionals\Invalid number\obj\Debug\netcoreapp3.1\Invalid number.csproj.CoreCompileInputs.cache
+D:\SoftUni\Basics - C#\Advanced Conditionals\Advanced Conditionals\Invalid number\obj\Debug\netcoreapp3.1\Invalid number.dll
+D:\SoftUni\Basics - C#\Advanced Conditionals\Advanced Conditionals\Invalid number\obj\Debug\netcoreapp3.1\Invalid number.pdb
+D:\SoftUni\Basics - C#\Advanced Conditionals\Advanced Conditionals\Invalid number\obj\Debug\netcoreapp3.1\Invalid number.genruntimeconfig.cache
