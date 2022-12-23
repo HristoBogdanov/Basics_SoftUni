@@ -1,0 +1,13 @@
+D:\SoftUni\Basics - C#\Advanced Conditionals\Advanced Conditionals\Fruit Shop\bin\Debug\netcoreapp3.1\Fruit Shop.exe
+D:\SoftUni\Basics - C#\Advanced Conditionals\Advanced Conditionals\Fruit Shop\bin\Debug\netcoreapp3.1\Fruit Shop.deps.json
+D:\SoftUni\Basics - C#\Advanced Conditionals\Advanced Conditionals\Fruit Shop\bin\Debug\netcoreapp3.1\Fruit Shop.runtimeconfig.json
+D:\SoftUni\Basics - C#\Advanced Conditionals\Advanced Conditionals\Fruit Shop\bin\Debug\netcoreapp3.1\Fruit Shop.runtimeconfig.dev.json
+D:\SoftUni\Basics - C#\Advanced Conditionals\Advanced Conditionals\Fruit Shop\bin\Debug\netcoreapp3.1\Fruit Shop.dll
+D:\SoftUni\Basics - C#\Advanced Conditionals\Advanced Conditionals\Fruit Shop\bin\Debug\netcoreapp3.1\Fruit Shop.pdb
+D:\SoftUni\Basics - C#\Advanced Conditionals\Advanced Conditionals\Fruit Shop\obj\Debug\netcoreapp3.1\Fruit Shop.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Basics - C#\Advanced Conditionals\Advanced Conditionals\Fruit Shop\obj\Debug\netcoreapp3.1\Fruit Shop.AssemblyInfoInputs.cache
+D:\SoftUni\Basics - C#\Advanced Conditionals\Advanced Conditionals\Fruit Shop\obj\Debug\netcoreapp3.1\Fruit Shop.AssemblyInfo.cs
+D:\SoftUni\Basics - C#\Advanced Conditionals\Advanced Conditionals\Fruit Shop\obj\Debug\netcoreapp3.1\Fruit Shop.csproj.CoreCompileInputs.cache
+D:\SoftUni\Basics - C#\Advanced Conditionals\Advanced Conditionals\Fruit Shop\obj\Debug\netcoreapp3.1\Fruit Shop.dll
+D:\SoftUni\Basics - C#\Advanced Conditionals\Advanced Conditionals\Fruit Shop\obj\Debug\netcoreapp3.1\Fruit Shop.pdb
+D:\SoftUni\Basics - C#\Advanced Conditionals\Advanced Conditionals\Fruit Shop\obj\Debug\netcoreapp3.1\Fruit Shop.genruntimeconfig.cache
