@@ -1,0 +1,13 @@
+D:\SoftUni\Basics - C#\Advanced Conditionals\Advanced Conditionals\Obrushtenie\bin\Debug\netcoreapp3.1\Obrushtenie.exe
+D:\SoftUni\Basics - C#\Advanced Conditionals\Advanced Conditionals\Obrushtenie\bin\Debug\netcoreapp3.1\Obrushtenie.deps.json
+D:\SoftUni\Basics - C#\Advanced Conditionals\Advanced Conditionals\Obrushtenie\bin\Debug\netcoreapp3.1\Obrushtenie.runtimeconfig.json
+D:\SoftUni\Basics - C#\Advanced Conditionals\Advanced Conditionals\Obrushtenie\bin\Debug\netcoreapp3.1\Obrushtenie.runtimeconfig.dev.json
+D:\SoftUni\Basics - C#\Advanced Conditionals\Advanced Conditionals\Obrushtenie\bin\Debug\netcoreapp3.1\Obrushtenie.dll
+D:\SoftUni\Basics - C#\Advanced Conditionals\Advanced Conditionals\Obrushtenie\bin\Debug\netcoreapp3.1\Obrushtenie.pdb
+D:\SoftUni\Basics - C#\Advanced Conditionals\Advanced Conditionals\Obrushtenie\obj\Debug\netcoreapp3.1\Obrushtenie.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Basics - C#\Advanced Conditionals\Advanced Conditionals\Obrushtenie\obj\Debug\netcoreapp3.1\Obrushtenie.AssemblyInfoInputs.cache
+D:\SoftUni\Basics - C#\Advanced Conditionals\Advanced Conditionals\Obrushtenie\obj\Debug\netcoreapp3.1\Obrushtenie.AssemblyInfo.cs
+D:\SoftUni\Basics - C#\Advanced Conditionals\Advanced Conditionals\Obrushtenie\obj\Debug\netcoreapp3.1\Obrushtenie.csproj.CoreCompileInputs.cache
+D:\SoftUni\Basics - C#\Advanced Conditionals\Advanced Conditionals\Obrushtenie\obj\Debug\netcoreapp3.1\Obrushtenie.dll
+D:\SoftUni\Basics - C#\Advanced Conditionals\Advanced Conditionals\Obrushtenie\obj\Debug\netcoreapp3.1\Obrushtenie.pdb
+D:\SoftUni\Basics - C#\Advanced Conditionals\Advanced Conditionals\Obrushtenie\obj\Debug\netcoreapp3.1\Obrushtenie.genruntimeconfig.cache
