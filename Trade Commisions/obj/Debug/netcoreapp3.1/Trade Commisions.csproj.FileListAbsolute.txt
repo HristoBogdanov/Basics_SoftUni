@@ -1,0 +1,14 @@
+D:\SoftUni\Basics - C#\Advanced Conditionals\Advanced Conditionals\Trade Commisions\bin\Debug\netcoreapp3.1\Trade Commisions.exe
+D:\SoftUni\Basics - C#\Advanced Conditionals\Advanced Conditionals\Trade Commisions\bin\Debug\netcoreapp3.1\Trade Commisions.deps.json
+D:\SoftUni\Basics - C#\Advanced Conditionals\Advanced Conditionals\Trade Commisions\bin\Debug\netcoreapp3.1\Trade Commisions.runtimeconfig.json
+D:\SoftUni\Basics - C#\Advanced Conditionals\Advanced Conditionals\Trade Commisions\bin\Debug\netcoreapp3.1\Trade Commisions.runtimeconfig.dev.json
+D:\SoftUni\Basics - C#\Advanced Conditionals\Advanced Conditionals\Trade Commisions\bin\Debug\netcoreapp3.1\Trade Commisions.dll
+D:\SoftUni\Basics - C#\Advanced Conditionals\Advanced Conditionals\Trade Commisions\bin\Debug\netcoreapp3.1\Trade Commisions.pdb
+D:\SoftUni\Basics - C#\Advanced Conditionals\Advanced Conditionals\Trade Commisions\obj\Debug\netcoreapp3.1\Trade Commisions.csproj.AssemblyReference.cache
+D:\SoftUni\Basics - C#\Advanced Conditionals\Advanced Conditionals\Trade Commisions\obj\Debug\netcoreapp3.1\Trade Commisions.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Basics - C#\Advanced Conditionals\Advanced Conditionals\Trade Commisions\obj\Debug\netcoreapp3.1\Trade Commisions.AssemblyInfoInputs.cache
+D:\SoftUni\Basics - C#\Advanced Conditionals\Advanced Conditionals\Trade Commisions\obj\Debug\netcoreapp3.1\Trade Commisions.AssemblyInfo.cs
+D:\SoftUni\Basics - C#\Advanced Conditionals\Advanced Conditionals\Trade Commisions\obj\Debug\netcoreapp3.1\Trade Commisions.csproj.CoreCompileInputs.cache
+D:\SoftUni\Basics - C#\Advanced Conditionals\Advanced Conditionals\Trade Commisions\obj\Debug\netcoreapp3.1\Trade Commisions.dll
+D:\SoftUni\Basics - C#\Advanced Conditionals\Advanced Conditionals\Trade Commisions\obj\Debug\netcoreapp3.1\Trade Commisions.pdb
+D:\SoftUni\Basics - C#\Advanced Conditionals\Advanced Conditionals\Trade Commisions\obj\Debug\netcoreapp3.1\Trade Commisions.genruntimeconfig.cache
