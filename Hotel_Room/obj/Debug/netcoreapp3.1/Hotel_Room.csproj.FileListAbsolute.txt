@@ -1,0 +1,13 @@
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Hotel_Room\bin\Debug\netcoreapp3.1\Hotel_Room.exe
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Hotel_Room\bin\Debug\netcoreapp3.1\Hotel_Room.deps.json
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Hotel_Room\bin\Debug\netcoreapp3.1\Hotel_Room.runtimeconfig.json
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Hotel_Room\bin\Debug\netcoreapp3.1\Hotel_Room.runtimeconfig.dev.json
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Hotel_Room\bin\Debug\netcoreapp3.1\Hotel_Room.dll
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Hotel_Room\bin\Debug\netcoreapp3.1\Hotel_Room.pdb
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Hotel_Room\obj\Debug\netcoreapp3.1\Hotel_Room.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Hotel_Room\obj\Debug\netcoreapp3.1\Hotel_Room.AssemblyInfoInputs.cache
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Hotel_Room\obj\Debug\netcoreapp3.1\Hotel_Room.AssemblyInfo.cs
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Hotel_Room\obj\Debug\netcoreapp3.1\Hotel_Room.csproj.CoreCompileInputs.cache
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Hotel_Room\obj\Debug\netcoreapp3.1\Hotel_Room.dll
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Hotel_Room\obj\Debug\netcoreapp3.1\Hotel_Room.pdb
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Hotel_Room\obj\Debug\netcoreapp3.1\Hotel_Room.genruntimeconfig.cache
