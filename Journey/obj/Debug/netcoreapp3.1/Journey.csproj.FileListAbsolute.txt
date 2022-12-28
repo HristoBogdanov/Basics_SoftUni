@@ -1,0 +1,13 @@
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Journey\bin\Debug\netcoreapp3.1\Journey.exe
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Journey\bin\Debug\netcoreapp3.1\Journey.deps.json
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Journey\bin\Debug\netcoreapp3.1\Journey.runtimeconfig.json
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Journey\bin\Debug\netcoreapp3.1\Journey.runtimeconfig.dev.json
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Journey\bin\Debug\netcoreapp3.1\Journey.dll
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Journey\bin\Debug\netcoreapp3.1\Journey.pdb
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Journey\obj\Debug\netcoreapp3.1\Journey.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Journey\obj\Debug\netcoreapp3.1\Journey.AssemblyInfoInputs.cache
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Journey\obj\Debug\netcoreapp3.1\Journey.AssemblyInfo.cs
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Journey\obj\Debug\netcoreapp3.1\Journey.csproj.CoreCompileInputs.cache
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Journey\obj\Debug\netcoreapp3.1\Journey.dll
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Journey\obj\Debug\netcoreapp3.1\Journey.pdb
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Journey\obj\Debug\netcoreapp3.1\Journey.genruntimeconfig.cache
