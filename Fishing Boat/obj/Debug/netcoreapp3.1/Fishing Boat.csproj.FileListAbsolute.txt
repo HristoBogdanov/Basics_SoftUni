@@ -1,0 +1,13 @@
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Fishing Boat\bin\Debug\netcoreapp3.1\Fishing Boat.exe
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Fishing Boat\bin\Debug\netcoreapp3.1\Fishing Boat.deps.json
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Fishing Boat\bin\Debug\netcoreapp3.1\Fishing Boat.runtimeconfig.json
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Fishing Boat\bin\Debug\netcoreapp3.1\Fishing Boat.runtimeconfig.dev.json
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Fishing Boat\bin\Debug\netcoreapp3.1\Fishing Boat.dll
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Fishing Boat\bin\Debug\netcoreapp3.1\Fishing Boat.pdb
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Fishing Boat\obj\Debug\netcoreapp3.1\Fishing Boat.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Fishing Boat\obj\Debug\netcoreapp3.1\Fishing Boat.AssemblyInfoInputs.cache
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Fishing Boat\obj\Debug\netcoreapp3.1\Fishing Boat.AssemblyInfo.cs
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Fishing Boat\obj\Debug\netcoreapp3.1\Fishing Boat.csproj.CoreCompileInputs.cache
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Fishing Boat\obj\Debug\netcoreapp3.1\Fishing Boat.dll
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Fishing Boat\obj\Debug\netcoreapp3.1\Fishing Boat.pdb
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Fishing Boat\obj\Debug\netcoreapp3.1\Fishing Boat.genruntimeconfig.cache
