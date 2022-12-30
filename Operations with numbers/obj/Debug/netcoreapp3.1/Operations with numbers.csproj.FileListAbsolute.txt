@@ -1,0 +1,13 @@
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Operations with numbers\bin\Debug\netcoreapp3.1\Operations with numbers.exe
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Operations with numbers\bin\Debug\netcoreapp3.1\Operations with numbers.deps.json
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Operations with numbers\bin\Debug\netcoreapp3.1\Operations with numbers.runtimeconfig.json
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Operations with numbers\bin\Debug\netcoreapp3.1\Operations with numbers.runtimeconfig.dev.json
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Operations with numbers\bin\Debug\netcoreapp3.1\Operations with numbers.dll
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Operations with numbers\bin\Debug\netcoreapp3.1\Operations with numbers.pdb
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Operations with numbers\obj\Debug\netcoreapp3.1\Operations with numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Operations with numbers\obj\Debug\netcoreapp3.1\Operations with numbers.AssemblyInfoInputs.cache
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Operations with numbers\obj\Debug\netcoreapp3.1\Operations with numbers.AssemblyInfo.cs
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Operations with numbers\obj\Debug\netcoreapp3.1\Operations with numbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Operations with numbers\obj\Debug\netcoreapp3.1\Operations with numbers.dll
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Operations with numbers\obj\Debug\netcoreapp3.1\Operations with numbers.pdb
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Operations with numbers\obj\Debug\netcoreapp3.1\Operations with numbers.genruntimeconfig.cache
