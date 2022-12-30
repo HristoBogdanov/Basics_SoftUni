@@ -1,0 +1,13 @@
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\On time\bin\Debug\netcoreapp3.1\On time.exe
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\On time\bin\Debug\netcoreapp3.1\On time.deps.json
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\On time\bin\Debug\netcoreapp3.1\On time.runtimeconfig.json
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\On time\bin\Debug\netcoreapp3.1\On time.runtimeconfig.dev.json
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\On time\bin\Debug\netcoreapp3.1\On time.dll
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\On time\bin\Debug\netcoreapp3.1\On time.pdb
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\On time\obj\Debug\netcoreapp3.1\On time.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\On time\obj\Debug\netcoreapp3.1\On time.AssemblyInfoInputs.cache
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\On time\obj\Debug\netcoreapp3.1\On time.AssemblyInfo.cs
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\On time\obj\Debug\netcoreapp3.1\On time.csproj.CoreCompileInputs.cache
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\On time\obj\Debug\netcoreapp3.1\On time.dll
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\On time\obj\Debug\netcoreapp3.1\On time.pdb
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\On time\obj\Debug\netcoreapp3.1\On time.genruntimeconfig.cache
