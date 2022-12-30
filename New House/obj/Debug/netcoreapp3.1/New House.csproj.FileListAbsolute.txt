@@ -1,0 +1,13 @@
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\New House\bin\Debug\netcoreapp3.1\New House.exe
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\New House\bin\Debug\netcoreapp3.1\New House.deps.json
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\New House\bin\Debug\netcoreapp3.1\New House.runtimeconfig.json
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\New House\bin\Debug\netcoreapp3.1\New House.runtimeconfig.dev.json
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\New House\bin\Debug\netcoreapp3.1\New House.dll
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\New House\bin\Debug\netcoreapp3.1\New House.pdb
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\New House\obj\Debug\netcoreapp3.1\New House.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\New House\obj\Debug\netcoreapp3.1\New House.AssemblyInfoInputs.cache
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\New House\obj\Debug\netcoreapp3.1\New House.AssemblyInfo.cs
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\New House\obj\Debug\netcoreapp3.1\New House.csproj.CoreCompileInputs.cache
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\New House\obj\Debug\netcoreapp3.1\New House.dll
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\New House\obj\Debug\netcoreapp3.1\New House.pdb
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\New House\obj\Debug\netcoreapp3.1\New House.genruntimeconfig.cache
