@@ -1,0 +1,14 @@
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Ski Trip\bin\Debug\netcoreapp3.1\Ski Trip.exe
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Ski Trip\bin\Debug\netcoreapp3.1\Ski Trip.deps.json
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Ski Trip\bin\Debug\netcoreapp3.1\Ski Trip.runtimeconfig.json
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Ski Trip\bin\Debug\netcoreapp3.1\Ski Trip.runtimeconfig.dev.json
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Ski Trip\bin\Debug\netcoreapp3.1\Ski Trip.dll
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Ski Trip\bin\Debug\netcoreapp3.1\Ski Trip.pdb
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Ski Trip\obj\Debug\netcoreapp3.1\Ski Trip.csproj.AssemblyReference.cache
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Ski Trip\obj\Debug\netcoreapp3.1\Ski Trip.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Ski Trip\obj\Debug\netcoreapp3.1\Ski Trip.AssemblyInfoInputs.cache
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Ski Trip\obj\Debug\netcoreapp3.1\Ski Trip.AssemblyInfo.cs
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Ski Trip\obj\Debug\netcoreapp3.1\Ski Trip.csproj.CoreCompileInputs.cache
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Ski Trip\obj\Debug\netcoreapp3.1\Ski Trip.dll
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Ski Trip\obj\Debug\netcoreapp3.1\Ski Trip.pdb
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Ski Trip\obj\Debug\netcoreapp3.1\Ski Trip.genruntimeconfig.cache
