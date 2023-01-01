@@ -1,0 +1,14 @@
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Summer Outfit\bin\Debug\netcoreapp3.1\Summer Outfit.exe
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Summer Outfit\bin\Debug\netcoreapp3.1\Summer Outfit.deps.json
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Summer Outfit\bin\Debug\netcoreapp3.1\Summer Outfit.runtimeconfig.json
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Summer Outfit\bin\Debug\netcoreapp3.1\Summer Outfit.runtimeconfig.dev.json
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Summer Outfit\bin\Debug\netcoreapp3.1\Summer Outfit.dll
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Summer Outfit\bin\Debug\netcoreapp3.1\Summer Outfit.pdb
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Summer Outfit\obj\Debug\netcoreapp3.1\Summer Outfit.csproj.AssemblyReference.cache
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Summer Outfit\obj\Debug\netcoreapp3.1\Summer Outfit.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Summer Outfit\obj\Debug\netcoreapp3.1\Summer Outfit.AssemblyInfoInputs.cache
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Summer Outfit\obj\Debug\netcoreapp3.1\Summer Outfit.AssemblyInfo.cs
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Summer Outfit\obj\Debug\netcoreapp3.1\Summer Outfit.csproj.CoreCompileInputs.cache
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Summer Outfit\obj\Debug\netcoreapp3.1\Summer Outfit.dll
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Summer Outfit\obj\Debug\netcoreapp3.1\Summer Outfit.pdb
+D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Summer Outfit\obj\Debug\netcoreapp3.1\Summer Outfit.genruntimeconfig.cache
