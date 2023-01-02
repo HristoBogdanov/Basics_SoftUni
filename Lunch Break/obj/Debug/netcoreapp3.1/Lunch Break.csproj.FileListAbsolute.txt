@@ -1,0 +1,14 @@
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\Lunch Break\bin\Debug\netcoreapp3.1\Lunch Break.exe
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\Lunch Break\bin\Debug\netcoreapp3.1\Lunch Break.deps.json
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\Lunch Break\bin\Debug\netcoreapp3.1\Lunch Break.runtimeconfig.json
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\Lunch Break\bin\Debug\netcoreapp3.1\Lunch Break.runtimeconfig.dev.json
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\Lunch Break\bin\Debug\netcoreapp3.1\Lunch Break.dll
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\Lunch Break\bin\Debug\netcoreapp3.1\Lunch Break.pdb
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\Lunch Break\obj\Debug\netcoreapp3.1\Lunch Break.csproj.AssemblyReference.cache
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\Lunch Break\obj\Debug\netcoreapp3.1\Lunch Break.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\Lunch Break\obj\Debug\netcoreapp3.1\Lunch Break.AssemblyInfoInputs.cache
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\Lunch Break\obj\Debug\netcoreapp3.1\Lunch Break.AssemblyInfo.cs
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\Lunch Break\obj\Debug\netcoreapp3.1\Lunch Break.csproj.CoreCompileInputs.cache
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\Lunch Break\obj\Debug\netcoreapp3.1\Lunch Break.dll
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\Lunch Break\obj\Debug\netcoreapp3.1\Lunch Break.pdb
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\Lunch Break\obj\Debug\netcoreapp3.1\Lunch Break.genruntimeconfig.cache
