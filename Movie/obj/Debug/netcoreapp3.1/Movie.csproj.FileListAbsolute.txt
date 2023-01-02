@@ -1,0 +1,13 @@
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\Movie\bin\Debug\netcoreapp3.1\Movie.exe
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\Movie\bin\Debug\netcoreapp3.1\Movie.deps.json
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\Movie\bin\Debug\netcoreapp3.1\Movie.runtimeconfig.json
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\Movie\bin\Debug\netcoreapp3.1\Movie.runtimeconfig.dev.json
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\Movie\bin\Debug\netcoreapp3.1\Movie.dll
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\Movie\bin\Debug\netcoreapp3.1\Movie.pdb
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\Movie\obj\Debug\netcoreapp3.1\Movie.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\Movie\obj\Debug\netcoreapp3.1\Movie.AssemblyInfoInputs.cache
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\Movie\obj\Debug\netcoreapp3.1\Movie.AssemblyInfo.cs
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\Movie\obj\Debug\netcoreapp3.1\Movie.csproj.CoreCompileInputs.cache
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\Movie\obj\Debug\netcoreapp3.1\Movie.dll
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\Movie\obj\Debug\netcoreapp3.1\Movie.pdb
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\Movie\obj\Debug\netcoreapp3.1\Movie.genruntimeconfig.cache
