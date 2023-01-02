@@ -1,0 +1,14 @@
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\BonusPoints\bin\Debug\netcoreapp3.1\BonusPoints.exe
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\BonusPoints\bin\Debug\netcoreapp3.1\BonusPoints.deps.json
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\BonusPoints\bin\Debug\netcoreapp3.1\BonusPoints.runtimeconfig.json
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\BonusPoints\bin\Debug\netcoreapp3.1\BonusPoints.runtimeconfig.dev.json
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\BonusPoints\bin\Debug\netcoreapp3.1\BonusPoints.dll
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\BonusPoints\bin\Debug\netcoreapp3.1\BonusPoints.pdb
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\BonusPoints\obj\Debug\netcoreapp3.1\BonusPoints.csproj.AssemblyReference.cache
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\BonusPoints\obj\Debug\netcoreapp3.1\BonusPoints.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\BonusPoints\obj\Debug\netcoreapp3.1\BonusPoints.AssemblyInfoInputs.cache
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\BonusPoints\obj\Debug\netcoreapp3.1\BonusPoints.AssemblyInfo.cs
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\BonusPoints\obj\Debug\netcoreapp3.1\BonusPoints.csproj.CoreCompileInputs.cache
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\BonusPoints\obj\Debug\netcoreapp3.1\BonusPoints.dll
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\BonusPoints\obj\Debug\netcoreapp3.1\BonusPoints.pdb
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\BonusPoints\obj\Debug\netcoreapp3.1\BonusPoints.genruntimeconfig.cache
