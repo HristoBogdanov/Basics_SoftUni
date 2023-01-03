@@ -1,0 +1,13 @@
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\Shopping\bin\Debug\netcoreapp3.1\Shopping.exe
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\Shopping\bin\Debug\netcoreapp3.1\Shopping.deps.json
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\Shopping\bin\Debug\netcoreapp3.1\Shopping.runtimeconfig.json
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\Shopping\bin\Debug\netcoreapp3.1\Shopping.runtimeconfig.dev.json
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\Shopping\bin\Debug\netcoreapp3.1\Shopping.dll
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\Shopping\bin\Debug\netcoreapp3.1\Shopping.pdb
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\Shopping\obj\Debug\netcoreapp3.1\Shopping.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\Shopping\obj\Debug\netcoreapp3.1\Shopping.AssemblyInfoInputs.cache
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\Shopping\obj\Debug\netcoreapp3.1\Shopping.AssemblyInfo.cs
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\Shopping\obj\Debug\netcoreapp3.1\Shopping.csproj.CoreCompileInputs.cache
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\Shopping\obj\Debug\netcoreapp3.1\Shopping.dll
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\Shopping\obj\Debug\netcoreapp3.1\Shopping.pdb
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\Shopping\obj\Debug\netcoreapp3.1\Shopping.genruntimeconfig.cache
