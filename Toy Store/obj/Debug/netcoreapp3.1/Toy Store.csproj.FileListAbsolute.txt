@@ -1,0 +1,13 @@
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\Toy Store\bin\Debug\netcoreapp3.1\Toy Store.exe
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\Toy Store\bin\Debug\netcoreapp3.1\Toy Store.deps.json
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\Toy Store\bin\Debug\netcoreapp3.1\Toy Store.runtimeconfig.json
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\Toy Store\bin\Debug\netcoreapp3.1\Toy Store.runtimeconfig.dev.json
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\Toy Store\bin\Debug\netcoreapp3.1\Toy Store.dll
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\Toy Store\bin\Debug\netcoreapp3.1\Toy Store.pdb
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\Toy Store\obj\Debug\netcoreapp3.1\Toy Store.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\Toy Store\obj\Debug\netcoreapp3.1\Toy Store.AssemblyInfoInputs.cache
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\Toy Store\obj\Debug\netcoreapp3.1\Toy Store.AssemblyInfo.cs
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\Toy Store\obj\Debug\netcoreapp3.1\Toy Store.csproj.CoreCompileInputs.cache
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\Toy Store\obj\Debug\netcoreapp3.1\Toy Store.dll
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\Toy Store\obj\Debug\netcoreapp3.1\Toy Store.pdb
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\Toy Store\obj\Debug\netcoreapp3.1\Toy Store.genruntimeconfig.cache
