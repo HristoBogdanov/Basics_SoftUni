@@ -1,0 +1,14 @@
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\Time\bin\Debug\netcoreapp3.1\Time.exe
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\Time\bin\Debug\netcoreapp3.1\Time.deps.json
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\Time\bin\Debug\netcoreapp3.1\Time.runtimeconfig.json
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\Time\bin\Debug\netcoreapp3.1\Time.runtimeconfig.dev.json
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\Time\bin\Debug\netcoreapp3.1\Time.dll
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\Time\bin\Debug\netcoreapp3.1\Time.pdb
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\Time\obj\Debug\netcoreapp3.1\Time.csproj.AssemblyReference.cache
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\Time\obj\Debug\netcoreapp3.1\Time.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\Time\obj\Debug\netcoreapp3.1\Time.AssemblyInfoInputs.cache
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\Time\obj\Debug\netcoreapp3.1\Time.AssemblyInfo.cs
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\Time\obj\Debug\netcoreapp3.1\Time.csproj.CoreCompileInputs.cache
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\Time\obj\Debug\netcoreapp3.1\Time.dll
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\Time\obj\Debug\netcoreapp3.1\Time.pdb
+D:\SoftUni\Basics - C#\Conditionals - Exercise\Conditionals - Exercise\Time\obj\Debug\netcoreapp3.1\Time.genruntimeconfig.cache
