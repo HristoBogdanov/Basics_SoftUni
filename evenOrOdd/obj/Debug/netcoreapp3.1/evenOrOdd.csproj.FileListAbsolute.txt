@@ -1,0 +1,14 @@
+D:\SoftUni\Basics - C#\Conditions\Conditions\evenOrOdd\bin\Debug\netcoreapp3.1\evenOrOdd.exe
+D:\SoftUni\Basics - C#\Conditions\Conditions\evenOrOdd\bin\Debug\netcoreapp3.1\evenOrOdd.deps.json
+D:\SoftUni\Basics - C#\Conditions\Conditions\evenOrOdd\bin\Debug\netcoreapp3.1\evenOrOdd.runtimeconfig.json
+D:\SoftUni\Basics - C#\Conditions\Conditions\evenOrOdd\bin\Debug\netcoreapp3.1\evenOrOdd.runtimeconfig.dev.json
+D:\SoftUni\Basics - C#\Conditions\Conditions\evenOrOdd\bin\Debug\netcoreapp3.1\evenOrOdd.dll
+D:\SoftUni\Basics - C#\Conditions\Conditions\evenOrOdd\bin\Debug\netcoreapp3.1\evenOrOdd.pdb
+D:\SoftUni\Basics - C#\Conditions\Conditions\evenOrOdd\obj\Debug\netcoreapp3.1\evenOrOdd.csproj.AssemblyReference.cache
+D:\SoftUni\Basics - C#\Conditions\Conditions\evenOrOdd\obj\Debug\netcoreapp3.1\evenOrOdd.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Basics - C#\Conditions\Conditions\evenOrOdd\obj\Debug\netcoreapp3.1\evenOrOdd.AssemblyInfoInputs.cache
+D:\SoftUni\Basics - C#\Conditions\Conditions\evenOrOdd\obj\Debug\netcoreapp3.1\evenOrOdd.AssemblyInfo.cs
+D:\SoftUni\Basics - C#\Conditions\Conditions\evenOrOdd\obj\Debug\netcoreapp3.1\evenOrOdd.csproj.CoreCompileInputs.cache
+D:\SoftUni\Basics - C#\Conditions\Conditions\evenOrOdd\obj\Debug\netcoreapp3.1\evenOrOdd.dll
+D:\SoftUni\Basics - C#\Conditions\Conditions\evenOrOdd\obj\Debug\netcoreapp3.1\evenOrOdd.pdb
+D:\SoftUni\Basics - C#\Conditions\Conditions\evenOrOdd\obj\Debug\netcoreapp3.1\evenOrOdd.genruntimeconfig.cache
