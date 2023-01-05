@@ -1,0 +1,14 @@
+D:\SoftUni\Basics - C#\Conditions\Conditions\Area\bin\Debug\netcoreapp3.1\Area.exe
+D:\SoftUni\Basics - C#\Conditions\Conditions\Area\bin\Debug\netcoreapp3.1\Area.deps.json
+D:\SoftUni\Basics - C#\Conditions\Conditions\Area\bin\Debug\netcoreapp3.1\Area.runtimeconfig.json
+D:\SoftUni\Basics - C#\Conditions\Conditions\Area\bin\Debug\netcoreapp3.1\Area.runtimeconfig.dev.json
+D:\SoftUni\Basics - C#\Conditions\Conditions\Area\bin\Debug\netcoreapp3.1\Area.dll
+D:\SoftUni\Basics - C#\Conditions\Conditions\Area\bin\Debug\netcoreapp3.1\Area.pdb
+D:\SoftUni\Basics - C#\Conditions\Conditions\Area\obj\Debug\netcoreapp3.1\Area.csproj.AssemblyReference.cache
+D:\SoftUni\Basics - C#\Conditions\Conditions\Area\obj\Debug\netcoreapp3.1\Area.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Basics - C#\Conditions\Conditions\Area\obj\Debug\netcoreapp3.1\Area.AssemblyInfoInputs.cache
+D:\SoftUni\Basics - C#\Conditions\Conditions\Area\obj\Debug\netcoreapp3.1\Area.AssemblyInfo.cs
+D:\SoftUni\Basics - C#\Conditions\Conditions\Area\obj\Debug\netcoreapp3.1\Area.csproj.CoreCompileInputs.cache
+D:\SoftUni\Basics - C#\Conditions\Conditions\Area\obj\Debug\netcoreapp3.1\Area.dll
+D:\SoftUni\Basics - C#\Conditions\Conditions\Area\obj\Debug\netcoreapp3.1\Area.pdb
+D:\SoftUni\Basics - C#\Conditions\Conditions\Area\obj\Debug\netcoreapp3.1\Area.genruntimeconfig.cache
