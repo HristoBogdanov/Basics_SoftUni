@@ -1,0 +1,14 @@
+D:\SoftUni\Basics - C#\Conditions\Conditions\Greater number\bin\Debug\netcoreapp3.1\Greater number.exe
+D:\SoftUni\Basics - C#\Conditions\Conditions\Greater number\bin\Debug\netcoreapp3.1\Greater number.deps.json
+D:\SoftUni\Basics - C#\Conditions\Conditions\Greater number\bin\Debug\netcoreapp3.1\Greater number.runtimeconfig.json
+D:\SoftUni\Basics - C#\Conditions\Conditions\Greater number\bin\Debug\netcoreapp3.1\Greater number.runtimeconfig.dev.json
+D:\SoftUni\Basics - C#\Conditions\Conditions\Greater number\bin\Debug\netcoreapp3.1\Greater number.dll
+D:\SoftUni\Basics - C#\Conditions\Conditions\Greater number\bin\Debug\netcoreapp3.1\Greater number.pdb
+D:\SoftUni\Basics - C#\Conditions\Conditions\Greater number\obj\Debug\netcoreapp3.1\Greater number.csproj.AssemblyReference.cache
+D:\SoftUni\Basics - C#\Conditions\Conditions\Greater number\obj\Debug\netcoreapp3.1\Greater number.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Basics - C#\Conditions\Conditions\Greater number\obj\Debug\netcoreapp3.1\Greater number.AssemblyInfoInputs.cache
+D:\SoftUni\Basics - C#\Conditions\Conditions\Greater number\obj\Debug\netcoreapp3.1\Greater number.AssemblyInfo.cs
+D:\SoftUni\Basics - C#\Conditions\Conditions\Greater number\obj\Debug\netcoreapp3.1\Greater number.csproj.CoreCompileInputs.cache
+D:\SoftUni\Basics - C#\Conditions\Conditions\Greater number\obj\Debug\netcoreapp3.1\Greater number.dll
+D:\SoftUni\Basics - C#\Conditions\Conditions\Greater number\obj\Debug\netcoreapp3.1\Greater number.pdb
+D:\SoftUni\Basics - C#\Conditions\Conditions\Greater number\obj\Debug\netcoreapp3.1\Greater number.genruntimeconfig.cache
