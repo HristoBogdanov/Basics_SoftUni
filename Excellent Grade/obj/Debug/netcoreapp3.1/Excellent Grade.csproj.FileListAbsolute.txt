@@ -1,0 +1,14 @@
+D:\SoftUni\Basics - C#\Conditions\Conditions\Excellent Grade\bin\Debug\netcoreapp3.1\Excellent Grade.exe
+D:\SoftUni\Basics - C#\Conditions\Conditions\Excellent Grade\bin\Debug\netcoreapp3.1\Excellent Grade.deps.json
+D:\SoftUni\Basics - C#\Conditions\Conditions\Excellent Grade\bin\Debug\netcoreapp3.1\Excellent Grade.runtimeconfig.json
+D:\SoftUni\Basics - C#\Conditions\Conditions\Excellent Grade\bin\Debug\netcoreapp3.1\Excellent Grade.runtimeconfig.dev.json
+D:\SoftUni\Basics - C#\Conditions\Conditions\Excellent Grade\bin\Debug\netcoreapp3.1\Excellent Grade.dll
+D:\SoftUni\Basics - C#\Conditions\Conditions\Excellent Grade\bin\Debug\netcoreapp3.1\Excellent Grade.pdb
+D:\SoftUni\Basics - C#\Conditions\Conditions\Excellent Grade\obj\Debug\netcoreapp3.1\Excellent Grade.csproj.AssemblyReference.cache
+D:\SoftUni\Basics - C#\Conditions\Conditions\Excellent Grade\obj\Debug\netcoreapp3.1\Excellent Grade.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Basics - C#\Conditions\Conditions\Excellent Grade\obj\Debug\netcoreapp3.1\Excellent Grade.AssemblyInfoInputs.cache
+D:\SoftUni\Basics - C#\Conditions\Conditions\Excellent Grade\obj\Debug\netcoreapp3.1\Excellent Grade.AssemblyInfo.cs
+D:\SoftUni\Basics - C#\Conditions\Conditions\Excellent Grade\obj\Debug\netcoreapp3.1\Excellent Grade.csproj.CoreCompileInputs.cache
+D:\SoftUni\Basics - C#\Conditions\Conditions\Excellent Grade\obj\Debug\netcoreapp3.1\Excellent Grade.dll
+D:\SoftUni\Basics - C#\Conditions\Conditions\Excellent Grade\obj\Debug\netcoreapp3.1\Excellent Grade.pdb
+D:\SoftUni\Basics - C#\Conditions\Conditions\Excellent Grade\obj\Debug\netcoreapp3.1\Excellent Grade.genruntimeconfig.cache
