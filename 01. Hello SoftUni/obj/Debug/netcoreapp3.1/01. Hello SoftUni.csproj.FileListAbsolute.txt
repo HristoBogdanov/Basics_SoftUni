@@ -1,0 +1,14 @@
+D:\SoftUni\Basics - C#\First steps\01. Hello SoftUni\bin\Debug\netcoreapp3.1\01. Hello SoftUni.exe
+D:\SoftUni\Basics - C#\First steps\01. Hello SoftUni\bin\Debug\netcoreapp3.1\01. Hello SoftUni.deps.json
+D:\SoftUni\Basics - C#\First steps\01. Hello SoftUni\bin\Debug\netcoreapp3.1\01. Hello SoftUni.runtimeconfig.json
+D:\SoftUni\Basics - C#\First steps\01. Hello SoftUni\bin\Debug\netcoreapp3.1\01. Hello SoftUni.runtimeconfig.dev.json
+D:\SoftUni\Basics - C#\First steps\01. Hello SoftUni\bin\Debug\netcoreapp3.1\01. Hello SoftUni.dll
+D:\SoftUni\Basics - C#\First steps\01. Hello SoftUni\bin\Debug\netcoreapp3.1\01. Hello SoftUni.pdb
+D:\SoftUni\Basics - C#\First steps\01. Hello SoftUni\obj\Debug\netcoreapp3.1\01. Hello SoftUni.csproj.AssemblyReference.cache
+D:\SoftUni\Basics - C#\First steps\01. Hello SoftUni\obj\Debug\netcoreapp3.1\01. Hello SoftUni.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Basics - C#\First steps\01. Hello SoftUni\obj\Debug\netcoreapp3.1\01. Hello SoftUni.AssemblyInfoInputs.cache
+D:\SoftUni\Basics - C#\First steps\01. Hello SoftUni\obj\Debug\netcoreapp3.1\01. Hello SoftUni.AssemblyInfo.cs
+D:\SoftUni\Basics - C#\First steps\01. Hello SoftUni\obj\Debug\netcoreapp3.1\01. Hello SoftUni.csproj.CoreCompileInputs.cache
+D:\SoftUni\Basics - C#\First steps\01. Hello SoftUni\obj\Debug\netcoreapp3.1\01. Hello SoftUni.dll
+D:\SoftUni\Basics - C#\First steps\01. Hello SoftUni\obj\Debug\netcoreapp3.1\01. Hello SoftUni.pdb
+D:\SoftUni\Basics - C#\First steps\01. Hello SoftUni\obj\Debug\netcoreapp3.1\01. Hello SoftUni.genruntimeconfig.cache
