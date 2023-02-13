@@ -1,0 +1,13 @@
+D:\SoftUni\Basics - C#\First steps\Concat Data\bin\Debug\netcoreapp3.1\Concat Data.exe
+D:\SoftUni\Basics - C#\First steps\Concat Data\bin\Debug\netcoreapp3.1\Concat Data.deps.json
+D:\SoftUni\Basics - C#\First steps\Concat Data\bin\Debug\netcoreapp3.1\Concat Data.runtimeconfig.json
+D:\SoftUni\Basics - C#\First steps\Concat Data\bin\Debug\netcoreapp3.1\Concat Data.runtimeconfig.dev.json
+D:\SoftUni\Basics - C#\First steps\Concat Data\bin\Debug\netcoreapp3.1\Concat Data.dll
+D:\SoftUni\Basics - C#\First steps\Concat Data\bin\Debug\netcoreapp3.1\Concat Data.pdb
+D:\SoftUni\Basics - C#\First steps\Concat Data\obj\Debug\netcoreapp3.1\Concat Data.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Basics - C#\First steps\Concat Data\obj\Debug\netcoreapp3.1\Concat Data.AssemblyInfoInputs.cache
+D:\SoftUni\Basics - C#\First steps\Concat Data\obj\Debug\netcoreapp3.1\Concat Data.AssemblyInfo.cs
+D:\SoftUni\Basics - C#\First steps\Concat Data\obj\Debug\netcoreapp3.1\Concat Data.csproj.CoreCompileInputs.cache
+D:\SoftUni\Basics - C#\First steps\Concat Data\obj\Debug\netcoreapp3.1\Concat Data.dll
+D:\SoftUni\Basics - C#\First steps\Concat Data\obj\Debug\netcoreapp3.1\Concat Data.pdb
+D:\SoftUni\Basics - C#\First steps\Concat Data\obj\Debug\netcoreapp3.1\Concat Data.genruntimeconfig.cache
