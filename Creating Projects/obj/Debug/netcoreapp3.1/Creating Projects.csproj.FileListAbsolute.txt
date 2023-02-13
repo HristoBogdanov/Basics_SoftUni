@@ -1,0 +1,13 @@
+D:\SoftUni\Basics - C#\First steps\Creating Projects\bin\Debug\netcoreapp3.1\Creating Projects.exe
+D:\SoftUni\Basics - C#\First steps\Creating Projects\bin\Debug\netcoreapp3.1\Creating Projects.deps.json
+D:\SoftUni\Basics - C#\First steps\Creating Projects\bin\Debug\netcoreapp3.1\Creating Projects.runtimeconfig.json
+D:\SoftUni\Basics - C#\First steps\Creating Projects\bin\Debug\netcoreapp3.1\Creating Projects.runtimeconfig.dev.json
+D:\SoftUni\Basics - C#\First steps\Creating Projects\bin\Debug\netcoreapp3.1\Creating Projects.dll
+D:\SoftUni\Basics - C#\First steps\Creating Projects\bin\Debug\netcoreapp3.1\Creating Projects.pdb
+D:\SoftUni\Basics - C#\First steps\Creating Projects\obj\Debug\netcoreapp3.1\Creating Projects.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Basics - C#\First steps\Creating Projects\obj\Debug\netcoreapp3.1\Creating Projects.AssemblyInfoInputs.cache
+D:\SoftUni\Basics - C#\First steps\Creating Projects\obj\Debug\netcoreapp3.1\Creating Projects.AssemblyInfo.cs
+D:\SoftUni\Basics - C#\First steps\Creating Projects\obj\Debug\netcoreapp3.1\Creating Projects.csproj.CoreCompileInputs.cache
+D:\SoftUni\Basics - C#\First steps\Creating Projects\obj\Debug\netcoreapp3.1\Creating Projects.dll
+D:\SoftUni\Basics - C#\First steps\Creating Projects\obj\Debug\netcoreapp3.1\Creating Projects.pdb
+D:\SoftUni\Basics - C#\First steps\Creating Projects\obj\Debug\netcoreapp3.1\Creating Projects.genruntimeconfig.cache
