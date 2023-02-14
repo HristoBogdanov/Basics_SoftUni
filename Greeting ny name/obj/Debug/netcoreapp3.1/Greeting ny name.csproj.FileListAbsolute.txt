@@ -1,0 +1,13 @@
+D:\SoftUni\Basics - C#\First steps\Greeting ny name\bin\Debug\netcoreapp3.1\Greeting ny name.exe
+D:\SoftUni\Basics - C#\First steps\Greeting ny name\bin\Debug\netcoreapp3.1\Greeting ny name.deps.json
+D:\SoftUni\Basics - C#\First steps\Greeting ny name\bin\Debug\netcoreapp3.1\Greeting ny name.runtimeconfig.json
+D:\SoftUni\Basics - C#\First steps\Greeting ny name\bin\Debug\netcoreapp3.1\Greeting ny name.runtimeconfig.dev.json
+D:\SoftUni\Basics - C#\First steps\Greeting ny name\bin\Debug\netcoreapp3.1\Greeting ny name.dll
+D:\SoftUni\Basics - C#\First steps\Greeting ny name\bin\Debug\netcoreapp3.1\Greeting ny name.pdb
+D:\SoftUni\Basics - C#\First steps\Greeting ny name\obj\Debug\netcoreapp3.1\Greeting ny name.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Basics - C#\First steps\Greeting ny name\obj\Debug\netcoreapp3.1\Greeting ny name.AssemblyInfoInputs.cache
+D:\SoftUni\Basics - C#\First steps\Greeting ny name\obj\Debug\netcoreapp3.1\Greeting ny name.AssemblyInfo.cs
+D:\SoftUni\Basics - C#\First steps\Greeting ny name\obj\Debug\netcoreapp3.1\Greeting ny name.csproj.CoreCompileInputs.cache
+D:\SoftUni\Basics - C#\First steps\Greeting ny name\obj\Debug\netcoreapp3.1\Greeting ny name.dll
+D:\SoftUni\Basics - C#\First steps\Greeting ny name\obj\Debug\netcoreapp3.1\Greeting ny name.pdb
+D:\SoftUni\Basics - C#\First steps\Greeting ny name\obj\Debug\netcoreapp3.1\Greeting ny name.genruntimeconfig.cache
