@@ -1,0 +1,14 @@
+D:\SoftUni\Basics - C#\First steps\Yard Greening\bin\Debug\netcoreapp3.1\Yard Greening.exe
+D:\SoftUni\Basics - C#\First steps\Yard Greening\bin\Debug\netcoreapp3.1\Yard Greening.deps.json
+D:\SoftUni\Basics - C#\First steps\Yard Greening\bin\Debug\netcoreapp3.1\Yard Greening.runtimeconfig.json
+D:\SoftUni\Basics - C#\First steps\Yard Greening\bin\Debug\netcoreapp3.1\Yard Greening.runtimeconfig.dev.json
+D:\SoftUni\Basics - C#\First steps\Yard Greening\bin\Debug\netcoreapp3.1\Yard Greening.dll
+D:\SoftUni\Basics - C#\First steps\Yard Greening\bin\Debug\netcoreapp3.1\Yard Greening.pdb
+D:\SoftUni\Basics - C#\First steps\Yard Greening\obj\Debug\netcoreapp3.1\Yard Greening.csproj.AssemblyReference.cache
+D:\SoftUni\Basics - C#\First steps\Yard Greening\obj\Debug\netcoreapp3.1\Yard Greening.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Basics - C#\First steps\Yard Greening\obj\Debug\netcoreapp3.1\Yard Greening.AssemblyInfoInputs.cache
+D:\SoftUni\Basics - C#\First steps\Yard Greening\obj\Debug\netcoreapp3.1\Yard Greening.AssemblyInfo.cs
+D:\SoftUni\Basics - C#\First steps\Yard Greening\obj\Debug\netcoreapp3.1\Yard Greening.csproj.CoreCompileInputs.cache
+D:\SoftUni\Basics - C#\First steps\Yard Greening\obj\Debug\netcoreapp3.1\Yard Greening.dll
+D:\SoftUni\Basics - C#\First steps\Yard Greening\obj\Debug\netcoreapp3.1\Yard Greening.pdb
+D:\SoftUni\Basics - C#\First steps\Yard Greening\obj\Debug\netcoreapp3.1\Yard Greening.genruntimeconfig.cache
