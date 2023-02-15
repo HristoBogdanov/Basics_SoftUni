@@ -1,0 +1,13 @@
+D:\SoftUni\Basics - C#\First steps\Rectangle Area\bin\Debug\netcoreapp3.1\Rectangle Area.exe
+D:\SoftUni\Basics - C#\First steps\Rectangle Area\bin\Debug\netcoreapp3.1\Rectangle Area.deps.json
+D:\SoftUni\Basics - C#\First steps\Rectangle Area\bin\Debug\netcoreapp3.1\Rectangle Area.runtimeconfig.json
+D:\SoftUni\Basics - C#\First steps\Rectangle Area\bin\Debug\netcoreapp3.1\Rectangle Area.runtimeconfig.dev.json
+D:\SoftUni\Basics - C#\First steps\Rectangle Area\bin\Debug\netcoreapp3.1\Rectangle Area.dll
+D:\SoftUni\Basics - C#\First steps\Rectangle Area\bin\Debug\netcoreapp3.1\Rectangle Area.pdb
+D:\SoftUni\Basics - C#\First steps\Rectangle Area\obj\Debug\netcoreapp3.1\Rectangle Area.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Basics - C#\First steps\Rectangle Area\obj\Debug\netcoreapp3.1\Rectangle Area.AssemblyInfoInputs.cache
+D:\SoftUni\Basics - C#\First steps\Rectangle Area\obj\Debug\netcoreapp3.1\Rectangle Area.AssemblyInfo.cs
+D:\SoftUni\Basics - C#\First steps\Rectangle Area\obj\Debug\netcoreapp3.1\Rectangle Area.csproj.CoreCompileInputs.cache
+D:\SoftUni\Basics - C#\First steps\Rectangle Area\obj\Debug\netcoreapp3.1\Rectangle Area.dll
+D:\SoftUni\Basics - C#\First steps\Rectangle Area\obj\Debug\netcoreapp3.1\Rectangle Area.pdb
+D:\SoftUni\Basics - C#\First steps\Rectangle Area\obj\Debug\netcoreapp3.1\Rectangle Area.genruntimeconfig.cache
