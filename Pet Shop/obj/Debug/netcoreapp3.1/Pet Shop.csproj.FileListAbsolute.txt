@@ -1,0 +1,13 @@
+D:\SoftUni\Basics - C#\First steps\Pet Shop\bin\Debug\netcoreapp3.1\Pet Shop.exe
+D:\SoftUni\Basics - C#\First steps\Pet Shop\bin\Debug\netcoreapp3.1\Pet Shop.deps.json
+D:\SoftUni\Basics - C#\First steps\Pet Shop\bin\Debug\netcoreapp3.1\Pet Shop.runtimeconfig.json
+D:\SoftUni\Basics - C#\First steps\Pet Shop\bin\Debug\netcoreapp3.1\Pet Shop.runtimeconfig.dev.json
+D:\SoftUni\Basics - C#\First steps\Pet Shop\bin\Debug\netcoreapp3.1\Pet Shop.dll
+D:\SoftUni\Basics - C#\First steps\Pet Shop\bin\Debug\netcoreapp3.1\Pet Shop.pdb
+D:\SoftUni\Basics - C#\First steps\Pet Shop\obj\Debug\netcoreapp3.1\Pet Shop.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Basics - C#\First steps\Pet Shop\obj\Debug\netcoreapp3.1\Pet Shop.AssemblyInfoInputs.cache
+D:\SoftUni\Basics - C#\First steps\Pet Shop\obj\Debug\netcoreapp3.1\Pet Shop.AssemblyInfo.cs
+D:\SoftUni\Basics - C#\First steps\Pet Shop\obj\Debug\netcoreapp3.1\Pet Shop.csproj.CoreCompileInputs.cache
+D:\SoftUni\Basics - C#\First steps\Pet Shop\obj\Debug\netcoreapp3.1\Pet Shop.dll
+D:\SoftUni\Basics - C#\First steps\Pet Shop\obj\Debug\netcoreapp3.1\Pet Shop.pdb
+D:\SoftUni\Basics - C#\First steps\Pet Shop\obj\Debug\netcoreapp3.1\Pet Shop.genruntimeconfig.cache
