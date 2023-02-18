@@ -1,0 +1,13 @@
+D:\SoftUni\Basics - C#\First steps - Exercise\Basketball equpment\bin\Debug\netcoreapp3.1\Basketball equpment.exe
+D:\SoftUni\Basics - C#\First steps - Exercise\Basketball equpment\bin\Debug\netcoreapp3.1\Basketball equpment.deps.json
+D:\SoftUni\Basics - C#\First steps - Exercise\Basketball equpment\bin\Debug\netcoreapp3.1\Basketball equpment.runtimeconfig.json
+D:\SoftUni\Basics - C#\First steps - Exercise\Basketball equpment\bin\Debug\netcoreapp3.1\Basketball equpment.runtimeconfig.dev.json
+D:\SoftUni\Basics - C#\First steps - Exercise\Basketball equpment\bin\Debug\netcoreapp3.1\Basketball equpment.dll
+D:\SoftUni\Basics - C#\First steps - Exercise\Basketball equpment\bin\Debug\netcoreapp3.1\Basketball equpment.pdb
+D:\SoftUni\Basics - C#\First steps - Exercise\Basketball equpment\obj\Debug\netcoreapp3.1\Basketball equpment.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Basics - C#\First steps - Exercise\Basketball equpment\obj\Debug\netcoreapp3.1\Basketball equpment.AssemblyInfoInputs.cache
+D:\SoftUni\Basics - C#\First steps - Exercise\Basketball equpment\obj\Debug\netcoreapp3.1\Basketball equpment.AssemblyInfo.cs
+D:\SoftUni\Basics - C#\First steps - Exercise\Basketball equpment\obj\Debug\netcoreapp3.1\Basketball equpment.csproj.CoreCompileInputs.cache
+D:\SoftUni\Basics - C#\First steps - Exercise\Basketball equpment\obj\Debug\netcoreapp3.1\Basketball equpment.dll
+D:\SoftUni\Basics - C#\First steps - Exercise\Basketball equpment\obj\Debug\netcoreapp3.1\Basketball equpment.pdb
+D:\SoftUni\Basics - C#\First steps - Exercise\Basketball equpment\obj\Debug\netcoreapp3.1\Basketball equpment.genruntimeconfig.cache
