@@ -1,0 +1,13 @@
+D:\SoftUni\Basics - C#\First steps - Exercise\Book Reading\bin\Debug\netcoreapp3.1\Book Reading.exe
+D:\SoftUni\Basics - C#\First steps - Exercise\Book Reading\bin\Debug\netcoreapp3.1\Book Reading.deps.json
+D:\SoftUni\Basics - C#\First steps - Exercise\Book Reading\bin\Debug\netcoreapp3.1\Book Reading.runtimeconfig.json
+D:\SoftUni\Basics - C#\First steps - Exercise\Book Reading\bin\Debug\netcoreapp3.1\Book Reading.runtimeconfig.dev.json
+D:\SoftUni\Basics - C#\First steps - Exercise\Book Reading\bin\Debug\netcoreapp3.1\Book Reading.dll
+D:\SoftUni\Basics - C#\First steps - Exercise\Book Reading\bin\Debug\netcoreapp3.1\Book Reading.pdb
+D:\SoftUni\Basics - C#\First steps - Exercise\Book Reading\obj\Debug\netcoreapp3.1\Book Reading.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Basics - C#\First steps - Exercise\Book Reading\obj\Debug\netcoreapp3.1\Book Reading.AssemblyInfoInputs.cache
+D:\SoftUni\Basics - C#\First steps - Exercise\Book Reading\obj\Debug\netcoreapp3.1\Book Reading.AssemblyInfo.cs
+D:\SoftUni\Basics - C#\First steps - Exercise\Book Reading\obj\Debug\netcoreapp3.1\Book Reading.csproj.CoreCompileInputs.cache
+D:\SoftUni\Basics - C#\First steps - Exercise\Book Reading\obj\Debug\netcoreapp3.1\Book Reading.dll
+D:\SoftUni\Basics - C#\First steps - Exercise\Book Reading\obj\Debug\netcoreapp3.1\Book Reading.pdb
+D:\SoftUni\Basics - C#\First steps - Exercise\Book Reading\obj\Debug\netcoreapp3.1\Book Reading.genruntimeconfig.cache
