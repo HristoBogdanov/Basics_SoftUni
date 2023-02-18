@@ -1,0 +1,14 @@
+D:\SoftUni\Basics - C#\First steps - Exercise\Deposit Calculator\bin\Debug\netcoreapp3.1\Deposit Calculator.exe
+D:\SoftUni\Basics - C#\First steps - Exercise\Deposit Calculator\bin\Debug\netcoreapp3.1\Deposit Calculator.deps.json
+D:\SoftUni\Basics - C#\First steps - Exercise\Deposit Calculator\bin\Debug\netcoreapp3.1\Deposit Calculator.runtimeconfig.json
+D:\SoftUni\Basics - C#\First steps - Exercise\Deposit Calculator\bin\Debug\netcoreapp3.1\Deposit Calculator.runtimeconfig.dev.json
+D:\SoftUni\Basics - C#\First steps - Exercise\Deposit Calculator\bin\Debug\netcoreapp3.1\Deposit Calculator.dll
+D:\SoftUni\Basics - C#\First steps - Exercise\Deposit Calculator\bin\Debug\netcoreapp3.1\Deposit Calculator.pdb
+D:\SoftUni\Basics - C#\First steps - Exercise\Deposit Calculator\obj\Debug\netcoreapp3.1\Deposit Calculator.csproj.AssemblyReference.cache
+D:\SoftUni\Basics - C#\First steps - Exercise\Deposit Calculator\obj\Debug\netcoreapp3.1\Deposit Calculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Basics - C#\First steps - Exercise\Deposit Calculator\obj\Debug\netcoreapp3.1\Deposit Calculator.AssemblyInfoInputs.cache
+D:\SoftUni\Basics - C#\First steps - Exercise\Deposit Calculator\obj\Debug\netcoreapp3.1\Deposit Calculator.AssemblyInfo.cs
+D:\SoftUni\Basics - C#\First steps - Exercise\Deposit Calculator\obj\Debug\netcoreapp3.1\Deposit Calculator.csproj.CoreCompileInputs.cache
+D:\SoftUni\Basics - C#\First steps - Exercise\Deposit Calculator\obj\Debug\netcoreapp3.1\Deposit Calculator.dll
+D:\SoftUni\Basics - C#\First steps - Exercise\Deposit Calculator\obj\Debug\netcoreapp3.1\Deposit Calculator.pdb
+D:\SoftUni\Basics - C#\First steps - Exercise\Deposit Calculator\obj\Debug\netcoreapp3.1\Deposit Calculator.genruntimeconfig.cache
