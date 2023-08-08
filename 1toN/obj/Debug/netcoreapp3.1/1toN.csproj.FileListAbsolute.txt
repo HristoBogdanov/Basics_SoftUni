@@ -1,0 +1,14 @@
+D:\SoftUni\Basics - C#\For Loop\For Loop\1toN\bin\Debug\netcoreapp3.1\1toN.exe
+D:\SoftUni\Basics - C#\For Loop\For Loop\1toN\bin\Debug\netcoreapp3.1\1toN.deps.json
+D:\SoftUni\Basics - C#\For Loop\For Loop\1toN\bin\Debug\netcoreapp3.1\1toN.runtimeconfig.json
+D:\SoftUni\Basics - C#\For Loop\For Loop\1toN\bin\Debug\netcoreapp3.1\1toN.runtimeconfig.dev.json
+D:\SoftUni\Basics - C#\For Loop\For Loop\1toN\bin\Debug\netcoreapp3.1\1toN.dll
+D:\SoftUni\Basics - C#\For Loop\For Loop\1toN\bin\Debug\netcoreapp3.1\1toN.pdb
+D:\SoftUni\Basics - C#\For Loop\For Loop\1toN\obj\Debug\netcoreapp3.1\1toN.csproj.AssemblyReference.cache
+D:\SoftUni\Basics - C#\For Loop\For Loop\1toN\obj\Debug\netcoreapp3.1\1toN.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Basics - C#\For Loop\For Loop\1toN\obj\Debug\netcoreapp3.1\1toN.AssemblyInfoInputs.cache
+D:\SoftUni\Basics - C#\For Loop\For Loop\1toN\obj\Debug\netcoreapp3.1\1toN.AssemblyInfo.cs
+D:\SoftUni\Basics - C#\For Loop\For Loop\1toN\obj\Debug\netcoreapp3.1\1toN.csproj.CoreCompileInputs.cache
+D:\SoftUni\Basics - C#\For Loop\For Loop\1toN\obj\Debug\netcoreapp3.1\1toN.dll
+D:\SoftUni\Basics - C#\For Loop\For Loop\1toN\obj\Debug\netcoreapp3.1\1toN.pdb
+D:\SoftUni\Basics - C#\For Loop\For Loop\1toN\obj\Debug\netcoreapp3.1\1toN.genruntimeconfig.cache
