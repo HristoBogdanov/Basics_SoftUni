@@ -1,0 +1,14 @@
+D:\SoftUni\Basics - C#\For Loop\For Loop\odd_even\obj\Debug\netcoreapp3.1\odd_even.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Basics - C#\For Loop\For Loop\odd_even\obj\Debug\netcoreapp3.1\odd_even.AssemblyInfoInputs.cache
+D:\SoftUni\Basics - C#\For Loop\For Loop\odd_even\obj\Debug\netcoreapp3.1\odd_even.AssemblyInfo.cs
+D:\SoftUni\Basics - C#\For Loop\For Loop\odd_even\obj\Debug\netcoreapp3.1\odd_even.csproj.CoreCompileInputs.cache
+D:\SoftUni\Basics - C#\For Loop\For Loop\odd_even\bin\Debug\netcoreapp3.1\odd_even.exe
+D:\SoftUni\Basics - C#\For Loop\For Loop\odd_even\bin\Debug\netcoreapp3.1\odd_even.deps.json
+D:\SoftUni\Basics - C#\For Loop\For Loop\odd_even\bin\Debug\netcoreapp3.1\odd_even.runtimeconfig.json
+D:\SoftUni\Basics - C#\For Loop\For Loop\odd_even\bin\Debug\netcoreapp3.1\odd_even.runtimeconfig.dev.json
+D:\SoftUni\Basics - C#\For Loop\For Loop\odd_even\bin\Debug\netcoreapp3.1\odd_even.dll
+D:\SoftUni\Basics - C#\For Loop\For Loop\odd_even\bin\Debug\netcoreapp3.1\odd_even.pdb
+D:\SoftUni\Basics - C#\For Loop\For Loop\odd_even\obj\Debug\netcoreapp3.1\odd_even.dll
+D:\SoftUni\Basics - C#\For Loop\For Loop\odd_even\obj\Debug\netcoreapp3.1\odd_even.pdb
+D:\SoftUni\Basics - C#\For Loop\For Loop\odd_even\obj\Debug\netcoreapp3.1\odd_even.genruntimeconfig.cache
+D:\SoftUni\Basics - C#\For Loop\For Loop\odd_even\obj\Debug\netcoreapp3.1\odd_even.csproj.AssemblyReference.cache

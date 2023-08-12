@@ -1,0 +1,13 @@
+D:\SoftUni\Basics - C#\For Loop\For Loop\Left_right_sum\bin\Debug\netcoreapp3.1\Left_right_sum.exe
+D:\SoftUni\Basics - C#\For Loop\For Loop\Left_right_sum\bin\Debug\netcoreapp3.1\Left_right_sum.deps.json
+D:\SoftUni\Basics - C#\For Loop\For Loop\Left_right_sum\bin\Debug\netcoreapp3.1\Left_right_sum.runtimeconfig.json
+D:\SoftUni\Basics - C#\For Loop\For Loop\Left_right_sum\bin\Debug\netcoreapp3.1\Left_right_sum.runtimeconfig.dev.json
+D:\SoftUni\Basics - C#\For Loop\For Loop\Left_right_sum\bin\Debug\netcoreapp3.1\Left_right_sum.dll
+D:\SoftUni\Basics - C#\For Loop\For Loop\Left_right_sum\bin\Debug\netcoreapp3.1\Left_right_sum.pdb
+D:\SoftUni\Basics - C#\For Loop\For Loop\Left_right_sum\obj\Debug\netcoreapp3.1\Left_right_sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Basics - C#\For Loop\For Loop\Left_right_sum\obj\Debug\netcoreapp3.1\Left_right_sum.AssemblyInfoInputs.cache
+D:\SoftUni\Basics - C#\For Loop\For Loop\Left_right_sum\obj\Debug\netcoreapp3.1\Left_right_sum.AssemblyInfo.cs
+D:\SoftUni\Basics - C#\For Loop\For Loop\Left_right_sum\obj\Debug\netcoreapp3.1\Left_right_sum.csproj.CoreCompileInputs.cache
+D:\SoftUni\Basics - C#\For Loop\For Loop\Left_right_sum\obj\Debug\netcoreapp3.1\Left_right_sum.dll
+D:\SoftUni\Basics - C#\For Loop\For Loop\Left_right_sum\obj\Debug\netcoreapp3.1\Left_right_sum.pdb
+D:\SoftUni\Basics - C#\For Loop\For Loop\Left_right_sum\obj\Debug\netcoreapp3.1\Left_right_sum.genruntimeconfig.cache
