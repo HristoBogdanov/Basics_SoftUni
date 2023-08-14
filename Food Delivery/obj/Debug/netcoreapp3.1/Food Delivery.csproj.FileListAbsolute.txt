@@ -1,0 +1,13 @@
+D:\SoftUni\Basics - C#\First steps - Exercise\Food Delivery\bin\Debug\netcoreapp3.1\Food Delivery.exe
+D:\SoftUni\Basics - C#\First steps - Exercise\Food Delivery\bin\Debug\netcoreapp3.1\Food Delivery.deps.json
+D:\SoftUni\Basics - C#\First steps - Exercise\Food Delivery\bin\Debug\netcoreapp3.1\Food Delivery.runtimeconfig.json
+D:\SoftUni\Basics - C#\First steps - Exercise\Food Delivery\bin\Debug\netcoreapp3.1\Food Delivery.runtimeconfig.dev.json
+D:\SoftUni\Basics - C#\First steps - Exercise\Food Delivery\bin\Debug\netcoreapp3.1\Food Delivery.dll
+D:\SoftUni\Basics - C#\First steps - Exercise\Food Delivery\bin\Debug\netcoreapp3.1\Food Delivery.pdb
+D:\SoftUni\Basics - C#\First steps - Exercise\Food Delivery\obj\Debug\netcoreapp3.1\Food Delivery.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Basics - C#\First steps - Exercise\Food Delivery\obj\Debug\netcoreapp3.1\Food Delivery.AssemblyInfoInputs.cache
+D:\SoftUni\Basics - C#\First steps - Exercise\Food Delivery\obj\Debug\netcoreapp3.1\Food Delivery.AssemblyInfo.cs
+D:\SoftUni\Basics - C#\First steps - Exercise\Food Delivery\obj\Debug\netcoreapp3.1\Food Delivery.csproj.CoreCompileInputs.cache
+D:\SoftUni\Basics - C#\First steps - Exercise\Food Delivery\obj\Debug\netcoreapp3.1\Food Delivery.dll
+D:\SoftUni\Basics - C#\First steps - Exercise\Food Delivery\obj\Debug\netcoreapp3.1\Food Delivery.pdb
+D:\SoftUni\Basics - C#\First steps - Exercise\Food Delivery\obj\Debug\netcoreapp3.1\Food Delivery.genruntimeconfig.cache

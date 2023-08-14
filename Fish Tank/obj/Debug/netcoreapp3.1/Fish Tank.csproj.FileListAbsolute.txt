@@ -1,0 +1,13 @@
+D:\SoftUni\Basics - C#\First steps - Exercise\Fish Tank\bin\Debug\netcoreapp3.1\Fish Tank.exe
+D:\SoftUni\Basics - C#\First steps - Exercise\Fish Tank\bin\Debug\netcoreapp3.1\Fish Tank.deps.json
+D:\SoftUni\Basics - C#\First steps - Exercise\Fish Tank\bin\Debug\netcoreapp3.1\Fish Tank.runtimeconfig.json
+D:\SoftUni\Basics - C#\First steps - Exercise\Fish Tank\bin\Debug\netcoreapp3.1\Fish Tank.runtimeconfig.dev.json
+D:\SoftUni\Basics - C#\First steps - Exercise\Fish Tank\bin\Debug\netcoreapp3.1\Fish Tank.dll
+D:\SoftUni\Basics - C#\First steps - Exercise\Fish Tank\bin\Debug\netcoreapp3.1\Fish Tank.pdb
+D:\SoftUni\Basics - C#\First steps - Exercise\Fish Tank\obj\Debug\netcoreapp3.1\Fish Tank.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Basics - C#\First steps - Exercise\Fish Tank\obj\Debug\netcoreapp3.1\Fish Tank.AssemblyInfoInputs.cache
+D:\SoftUni\Basics - C#\First steps - Exercise\Fish Tank\obj\Debug\netcoreapp3.1\Fish Tank.AssemblyInfo.cs
+D:\SoftUni\Basics - C#\First steps - Exercise\Fish Tank\obj\Debug\netcoreapp3.1\Fish Tank.csproj.CoreCompileInputs.cache
+D:\SoftUni\Basics - C#\First steps - Exercise\Fish Tank\obj\Debug\netcoreapp3.1\Fish Tank.dll
+D:\SoftUni\Basics - C#\First steps - Exercise\Fish Tank\obj\Debug\netcoreapp3.1\Fish Tank.pdb
+D:\SoftUni\Basics - C#\First steps - Exercise\Fish Tank\obj\Debug\netcoreapp3.1\Fish Tank.genruntimeconfig.cache
