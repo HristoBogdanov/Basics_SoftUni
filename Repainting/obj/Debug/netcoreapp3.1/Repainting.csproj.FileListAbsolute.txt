@@ -1,0 +1,14 @@
+D:\SoftUni\Basics - C#\First steps - Exercise\Repainting\bin\Debug\netcoreapp3.1\Repainting.exe
+D:\SoftUni\Basics - C#\First steps - Exercise\Repainting\bin\Debug\netcoreapp3.1\Repainting.deps.json
+D:\SoftUni\Basics - C#\First steps - Exercise\Repainting\bin\Debug\netcoreapp3.1\Repainting.runtimeconfig.json
+D:\SoftUni\Basics - C#\First steps - Exercise\Repainting\bin\Debug\netcoreapp3.1\Repainting.runtimeconfig.dev.json
+D:\SoftUni\Basics - C#\First steps - Exercise\Repainting\bin\Debug\netcoreapp3.1\Repainting.dll
+D:\SoftUni\Basics - C#\First steps - Exercise\Repainting\bin\Debug\netcoreapp3.1\Repainting.pdb
+D:\SoftUni\Basics - C#\First steps - Exercise\Repainting\obj\Debug\netcoreapp3.1\Repainting.csproj.AssemblyReference.cache
+D:\SoftUni\Basics - C#\First steps - Exercise\Repainting\obj\Debug\netcoreapp3.1\Repainting.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Basics - C#\First steps - Exercise\Repainting\obj\Debug\netcoreapp3.1\Repainting.AssemblyInfoInputs.cache
+D:\SoftUni\Basics - C#\First steps - Exercise\Repainting\obj\Debug\netcoreapp3.1\Repainting.AssemblyInfo.cs
+D:\SoftUni\Basics - C#\First steps - Exercise\Repainting\obj\Debug\netcoreapp3.1\Repainting.csproj.CoreCompileInputs.cache
+D:\SoftUni\Basics - C#\First steps - Exercise\Repainting\obj\Debug\netcoreapp3.1\Repainting.dll
+D:\SoftUni\Basics - C#\First steps - Exercise\Repainting\obj\Debug\netcoreapp3.1\Repainting.pdb
+D:\SoftUni\Basics - C#\First steps - Exercise\Repainting\obj\Debug\netcoreapp3.1\Repainting.genruntimeconfig.cache

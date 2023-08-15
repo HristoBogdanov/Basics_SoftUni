@@ -1,0 +1,14 @@
+D:\SoftUni\Basics - C#\First steps - Exercise\UST to BGN\bin\Debug\netcoreapp3.1\UST to BGN.exe
+D:\SoftUni\Basics - C#\First steps - Exercise\UST to BGN\bin\Debug\netcoreapp3.1\UST to BGN.deps.json
+D:\SoftUni\Basics - C#\First steps - Exercise\UST to BGN\bin\Debug\netcoreapp3.1\UST to BGN.runtimeconfig.json
+D:\SoftUni\Basics - C#\First steps - Exercise\UST to BGN\bin\Debug\netcoreapp3.1\UST to BGN.runtimeconfig.dev.json
+D:\SoftUni\Basics - C#\First steps - Exercise\UST to BGN\bin\Debug\netcoreapp3.1\UST to BGN.dll
+D:\SoftUni\Basics - C#\First steps - Exercise\UST to BGN\bin\Debug\netcoreapp3.1\UST to BGN.pdb
+D:\SoftUni\Basics - C#\First steps - Exercise\UST to BGN\obj\Debug\netcoreapp3.1\UST to BGN.csproj.AssemblyReference.cache
+D:\SoftUni\Basics - C#\First steps - Exercise\UST to BGN\obj\Debug\netcoreapp3.1\UST to BGN.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Basics - C#\First steps - Exercise\UST to BGN\obj\Debug\netcoreapp3.1\UST to BGN.AssemblyInfoInputs.cache
+D:\SoftUni\Basics - C#\First steps - Exercise\UST to BGN\obj\Debug\netcoreapp3.1\UST to BGN.AssemblyInfo.cs
+D:\SoftUni\Basics - C#\First steps - Exercise\UST to BGN\obj\Debug\netcoreapp3.1\UST to BGN.csproj.CoreCompileInputs.cache
+D:\SoftUni\Basics - C#\First steps - Exercise\UST to BGN\obj\Debug\netcoreapp3.1\UST to BGN.dll
+D:\SoftUni\Basics - C#\First steps - Exercise\UST to BGN\obj\Debug\netcoreapp3.1\UST to BGN.pdb
+D:\SoftUni\Basics - C#\First steps - Exercise\UST to BGN\obj\Debug\netcoreapp3.1\UST to BGN.genruntimeconfig.cache

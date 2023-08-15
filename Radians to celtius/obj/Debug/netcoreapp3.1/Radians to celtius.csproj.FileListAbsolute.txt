@@ -1,0 +1,14 @@
+D:\SoftUni\Basics - C#\First steps - Exercise\Radians to celtius\bin\Debug\netcoreapp3.1\Radians to celtius.exe
+D:\SoftUni\Basics - C#\First steps - Exercise\Radians to celtius\bin\Debug\netcoreapp3.1\Radians to celtius.deps.json
+D:\SoftUni\Basics - C#\First steps - Exercise\Radians to celtius\bin\Debug\netcoreapp3.1\Radians to celtius.runtimeconfig.json
+D:\SoftUni\Basics - C#\First steps - Exercise\Radians to celtius\bin\Debug\netcoreapp3.1\Radians to celtius.runtimeconfig.dev.json
+D:\SoftUni\Basics - C#\First steps - Exercise\Radians to celtius\bin\Debug\netcoreapp3.1\Radians to celtius.dll
+D:\SoftUni\Basics - C#\First steps - Exercise\Radians to celtius\bin\Debug\netcoreapp3.1\Radians to celtius.pdb
+D:\SoftUni\Basics - C#\First steps - Exercise\Radians to celtius\obj\Debug\netcoreapp3.1\Radians to celtius.csproj.AssemblyReference.cache
+D:\SoftUni\Basics - C#\First steps - Exercise\Radians to celtius\obj\Debug\netcoreapp3.1\Radians to celtius.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Basics - C#\First steps - Exercise\Radians to celtius\obj\Debug\netcoreapp3.1\Radians to celtius.AssemblyInfoInputs.cache
+D:\SoftUni\Basics - C#\First steps - Exercise\Radians to celtius\obj\Debug\netcoreapp3.1\Radians to celtius.AssemblyInfo.cs
+D:\SoftUni\Basics - C#\First steps - Exercise\Radians to celtius\obj\Debug\netcoreapp3.1\Radians to celtius.csproj.CoreCompileInputs.cache
+D:\SoftUni\Basics - C#\First steps - Exercise\Radians to celtius\obj\Debug\netcoreapp3.1\Radians to celtius.dll
+D:\SoftUni\Basics - C#\First steps - Exercise\Radians to celtius\obj\Debug\netcoreapp3.1\Radians to celtius.pdb
+D:\SoftUni\Basics - C#\First steps - Exercise\Radians to celtius\obj\Debug\netcoreapp3.1\Radians to celtius.genruntimeconfig.cache
