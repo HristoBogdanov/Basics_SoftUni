@@ -1,0 +1,13 @@
+D:\SoftUni\Basics - C#\For Loop\For Loop\striung_numbers\bin\Debug\netcoreapp3.1\striung_numbers.exe
+D:\SoftUni\Basics - C#\For Loop\For Loop\striung_numbers\bin\Debug\netcoreapp3.1\striung_numbers.deps.json
+D:\SoftUni\Basics - C#\For Loop\For Loop\striung_numbers\bin\Debug\netcoreapp3.1\striung_numbers.runtimeconfig.json
+D:\SoftUni\Basics - C#\For Loop\For Loop\striung_numbers\bin\Debug\netcoreapp3.1\striung_numbers.runtimeconfig.dev.json
+D:\SoftUni\Basics - C#\For Loop\For Loop\striung_numbers\bin\Debug\netcoreapp3.1\striung_numbers.dll
+D:\SoftUni\Basics - C#\For Loop\For Loop\striung_numbers\bin\Debug\netcoreapp3.1\striung_numbers.pdb
+D:\SoftUni\Basics - C#\For Loop\For Loop\striung_numbers\obj\Debug\netcoreapp3.1\striung_numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Basics - C#\For Loop\For Loop\striung_numbers\obj\Debug\netcoreapp3.1\striung_numbers.AssemblyInfoInputs.cache
+D:\SoftUni\Basics - C#\For Loop\For Loop\striung_numbers\obj\Debug\netcoreapp3.1\striung_numbers.AssemblyInfo.cs
+D:\SoftUni\Basics - C#\For Loop\For Loop\striung_numbers\obj\Debug\netcoreapp3.1\striung_numbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Basics - C#\For Loop\For Loop\striung_numbers\obj\Debug\netcoreapp3.1\striung_numbers.dll
+D:\SoftUni\Basics - C#\For Loop\For Loop\striung_numbers\obj\Debug\netcoreapp3.1\striung_numbers.pdb
+D:\SoftUni\Basics - C#\For Loop\For Loop\striung_numbers\obj\Debug\netcoreapp3.1\striung_numbers.genruntimeconfig.cache

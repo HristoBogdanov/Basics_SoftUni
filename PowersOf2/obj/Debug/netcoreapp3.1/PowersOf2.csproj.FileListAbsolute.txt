@@ -1,0 +1,13 @@
+D:\SoftUni\Basics - C#\For Loop\For Loop\PowersOf2\bin\Debug\netcoreapp3.1\PowersOf2.exe
+D:\SoftUni\Basics - C#\For Loop\For Loop\PowersOf2\bin\Debug\netcoreapp3.1\PowersOf2.deps.json
+D:\SoftUni\Basics - C#\For Loop\For Loop\PowersOf2\bin\Debug\netcoreapp3.1\PowersOf2.runtimeconfig.json
+D:\SoftUni\Basics - C#\For Loop\For Loop\PowersOf2\bin\Debug\netcoreapp3.1\PowersOf2.runtimeconfig.dev.json
+D:\SoftUni\Basics - C#\For Loop\For Loop\PowersOf2\bin\Debug\netcoreapp3.1\PowersOf2.dll
+D:\SoftUni\Basics - C#\For Loop\For Loop\PowersOf2\bin\Debug\netcoreapp3.1\PowersOf2.pdb
+D:\SoftUni\Basics - C#\For Loop\For Loop\PowersOf2\obj\Debug\netcoreapp3.1\PowersOf2.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Basics - C#\For Loop\For Loop\PowersOf2\obj\Debug\netcoreapp3.1\PowersOf2.AssemblyInfoInputs.cache
+D:\SoftUni\Basics - C#\For Loop\For Loop\PowersOf2\obj\Debug\netcoreapp3.1\PowersOf2.AssemblyInfo.cs
+D:\SoftUni\Basics - C#\For Loop\For Loop\PowersOf2\obj\Debug\netcoreapp3.1\PowersOf2.csproj.CoreCompileInputs.cache
+D:\SoftUni\Basics - C#\For Loop\For Loop\PowersOf2\obj\Debug\netcoreapp3.1\PowersOf2.dll
+D:\SoftUni\Basics - C#\For Loop\For Loop\PowersOf2\obj\Debug\netcoreapp3.1\PowersOf2.pdb
+D:\SoftUni\Basics - C#\For Loop\For Loop\PowersOf2\obj\Debug\netcoreapp3.1\PowersOf2.genruntimeconfig.cache
