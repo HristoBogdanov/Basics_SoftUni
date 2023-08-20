@@ -1,0 +1,14 @@
+D:\SoftUni\Basics - C#\For Loop\For Loop\Vowels_sum\bin\Debug\netcoreapp3.1\Vowels_sum.exe
+D:\SoftUni\Basics - C#\For Loop\For Loop\Vowels_sum\bin\Debug\netcoreapp3.1\Vowels_sum.deps.json
+D:\SoftUni\Basics - C#\For Loop\For Loop\Vowels_sum\bin\Debug\netcoreapp3.1\Vowels_sum.runtimeconfig.json
+D:\SoftUni\Basics - C#\For Loop\For Loop\Vowels_sum\bin\Debug\netcoreapp3.1\Vowels_sum.runtimeconfig.dev.json
+D:\SoftUni\Basics - C#\For Loop\For Loop\Vowels_sum\bin\Debug\netcoreapp3.1\Vowels_sum.dll
+D:\SoftUni\Basics - C#\For Loop\For Loop\Vowels_sum\bin\Debug\netcoreapp3.1\Vowels_sum.pdb
+D:\SoftUni\Basics - C#\For Loop\For Loop\Vowels_sum\obj\Debug\netcoreapp3.1\Vowels_sum.csproj.AssemblyReference.cache
+D:\SoftUni\Basics - C#\For Loop\For Loop\Vowels_sum\obj\Debug\netcoreapp3.1\Vowels_sum.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Basics - C#\For Loop\For Loop\Vowels_sum\obj\Debug\netcoreapp3.1\Vowels_sum.AssemblyInfoInputs.cache
+D:\SoftUni\Basics - C#\For Loop\For Loop\Vowels_sum\obj\Debug\netcoreapp3.1\Vowels_sum.AssemblyInfo.cs
+D:\SoftUni\Basics - C#\For Loop\For Loop\Vowels_sum\obj\Debug\netcoreapp3.1\Vowels_sum.csproj.CoreCompileInputs.cache
+D:\SoftUni\Basics - C#\For Loop\For Loop\Vowels_sum\obj\Debug\netcoreapp3.1\Vowels_sum.dll
+D:\SoftUni\Basics - C#\For Loop\For Loop\Vowels_sum\obj\Debug\netcoreapp3.1\Vowels_sum.pdb
+D:\SoftUni\Basics - C#\For Loop\For Loop\Vowels_sum\obj\Debug\netcoreapp3.1\Vowels_sum.genruntimeconfig.cache
