@@ -1,0 +1,13 @@
+D:\SoftUni\Basics - C#\For Loop\For Loop\WholeNumbers\bin\Debug\netcoreapp3.1\WholeNumbers.exe
+D:\SoftUni\Basics - C#\For Loop\For Loop\WholeNumbers\bin\Debug\netcoreapp3.1\WholeNumbers.deps.json
+D:\SoftUni\Basics - C#\For Loop\For Loop\WholeNumbers\bin\Debug\netcoreapp3.1\WholeNumbers.runtimeconfig.json
+D:\SoftUni\Basics - C#\For Loop\For Loop\WholeNumbers\bin\Debug\netcoreapp3.1\WholeNumbers.runtimeconfig.dev.json
+D:\SoftUni\Basics - C#\For Loop\For Loop\WholeNumbers\bin\Debug\netcoreapp3.1\WholeNumbers.dll
+D:\SoftUni\Basics - C#\For Loop\For Loop\WholeNumbers\bin\Debug\netcoreapp3.1\WholeNumbers.pdb
+D:\SoftUni\Basics - C#\For Loop\For Loop\WholeNumbers\obj\Debug\netcoreapp3.1\WholeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Basics - C#\For Loop\For Loop\WholeNumbers\obj\Debug\netcoreapp3.1\WholeNumbers.AssemblyInfoInputs.cache
+D:\SoftUni\Basics - C#\For Loop\For Loop\WholeNumbers\obj\Debug\netcoreapp3.1\WholeNumbers.AssemblyInfo.cs
+D:\SoftUni\Basics - C#\For Loop\For Loop\WholeNumbers\obj\Debug\netcoreapp3.1\WholeNumbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Basics - C#\For Loop\For Loop\WholeNumbers\obj\Debug\netcoreapp3.1\WholeNumbers.dll
+D:\SoftUni\Basics - C#\For Loop\For Loop\WholeNumbers\obj\Debug\netcoreapp3.1\WholeNumbers.pdb
+D:\SoftUni\Basics - C#\For Loop\For Loop\WholeNumbers\obj\Debug\netcoreapp3.1\WholeNumbers.genruntimeconfig.cache
