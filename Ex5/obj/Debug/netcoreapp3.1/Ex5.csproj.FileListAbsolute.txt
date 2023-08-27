@@ -1,0 +1,13 @@
+D:\SoftUni\Basics - C#\First Exam\First Exam\Ex5\bin\Debug\netcoreapp3.1\Ex5.exe
+D:\SoftUni\Basics - C#\First Exam\First Exam\Ex5\bin\Debug\netcoreapp3.1\Ex5.deps.json
+D:\SoftUni\Basics - C#\First Exam\First Exam\Ex5\bin\Debug\netcoreapp3.1\Ex5.runtimeconfig.json
+D:\SoftUni\Basics - C#\First Exam\First Exam\Ex5\bin\Debug\netcoreapp3.1\Ex5.runtimeconfig.dev.json
+D:\SoftUni\Basics - C#\First Exam\First Exam\Ex5\bin\Debug\netcoreapp3.1\Ex5.dll
+D:\SoftUni\Basics - C#\First Exam\First Exam\Ex5\bin\Debug\netcoreapp3.1\Ex5.pdb
+D:\SoftUni\Basics - C#\First Exam\First Exam\Ex5\obj\Debug\netcoreapp3.1\Ex5.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Basics - C#\First Exam\First Exam\Ex5\obj\Debug\netcoreapp3.1\Ex5.AssemblyInfoInputs.cache
+D:\SoftUni\Basics - C#\First Exam\First Exam\Ex5\obj\Debug\netcoreapp3.1\Ex5.AssemblyInfo.cs
+D:\SoftUni\Basics - C#\First Exam\First Exam\Ex5\obj\Debug\netcoreapp3.1\Ex5.csproj.CoreCompileInputs.cache
+D:\SoftUni\Basics - C#\First Exam\First Exam\Ex5\obj\Debug\netcoreapp3.1\Ex5.dll
+D:\SoftUni\Basics - C#\First Exam\First Exam\Ex5\obj\Debug\netcoreapp3.1\Ex5.pdb
+D:\SoftUni\Basics - C#\First Exam\First Exam\Ex5\obj\Debug\netcoreapp3.1\Ex5.genruntimeconfig.cache
