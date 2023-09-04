@@ -1,0 +1,14 @@
+D:\SoftUni\Basics - C#\Nested Loops\Nested Loops\Combinations\bin\Debug\netcoreapp3.1\Combinations.exe
+D:\SoftUni\Basics - C#\Nested Loops\Nested Loops\Combinations\bin\Debug\netcoreapp3.1\Combinations.deps.json
+D:\SoftUni\Basics - C#\Nested Loops\Nested Loops\Combinations\bin\Debug\netcoreapp3.1\Combinations.runtimeconfig.json
+D:\SoftUni\Basics - C#\Nested Loops\Nested Loops\Combinations\bin\Debug\netcoreapp3.1\Combinations.runtimeconfig.dev.json
+D:\SoftUni\Basics - C#\Nested Loops\Nested Loops\Combinations\bin\Debug\netcoreapp3.1\Combinations.dll
+D:\SoftUni\Basics - C#\Nested Loops\Nested Loops\Combinations\bin\Debug\netcoreapp3.1\Combinations.pdb
+D:\SoftUni\Basics - C#\Nested Loops\Nested Loops\Combinations\obj\Debug\netcoreapp3.1\Combinations.csproj.AssemblyReference.cache
+D:\SoftUni\Basics - C#\Nested Loops\Nested Loops\Combinations\obj\Debug\netcoreapp3.1\Combinations.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Basics - C#\Nested Loops\Nested Loops\Combinations\obj\Debug\netcoreapp3.1\Combinations.AssemblyInfoInputs.cache
+D:\SoftUni\Basics - C#\Nested Loops\Nested Loops\Combinations\obj\Debug\netcoreapp3.1\Combinations.AssemblyInfo.cs
+D:\SoftUni\Basics - C#\Nested Loops\Nested Loops\Combinations\obj\Debug\netcoreapp3.1\Combinations.csproj.CoreCompileInputs.cache
+D:\SoftUni\Basics - C#\Nested Loops\Nested Loops\Combinations\obj\Debug\netcoreapp3.1\Combinations.dll
+D:\SoftUni\Basics - C#\Nested Loops\Nested Loops\Combinations\obj\Debug\netcoreapp3.1\Combinations.pdb
+D:\SoftUni\Basics - C#\Nested Loops\Nested Loops\Combinations\obj\Debug\netcoreapp3.1\Combinations.genruntimeconfig.cache
