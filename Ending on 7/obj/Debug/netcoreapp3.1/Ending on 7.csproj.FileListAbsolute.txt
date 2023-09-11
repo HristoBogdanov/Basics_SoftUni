@@ -1,0 +1,14 @@
+D:\SoftUni\Basics - C#\For Loop - Exercise\For Loop - Exercise\Ending on 7\bin\Debug\netcoreapp3.1\Ending on 7.exe
+D:\SoftUni\Basics - C#\For Loop - Exercise\For Loop - Exercise\Ending on 7\bin\Debug\netcoreapp3.1\Ending on 7.deps.json
+D:\SoftUni\Basics - C#\For Loop - Exercise\For Loop - Exercise\Ending on 7\bin\Debug\netcoreapp3.1\Ending on 7.runtimeconfig.json
+D:\SoftUni\Basics - C#\For Loop - Exercise\For Loop - Exercise\Ending on 7\bin\Debug\netcoreapp3.1\Ending on 7.runtimeconfig.dev.json
+D:\SoftUni\Basics - C#\For Loop - Exercise\For Loop - Exercise\Ending on 7\bin\Debug\netcoreapp3.1\Ending on 7.dll
+D:\SoftUni\Basics - C#\For Loop - Exercise\For Loop - Exercise\Ending on 7\bin\Debug\netcoreapp3.1\Ending on 7.pdb
+D:\SoftUni\Basics - C#\For Loop - Exercise\For Loop - Exercise\Ending on 7\obj\Debug\netcoreapp3.1\Ending on 7.csproj.AssemblyReference.cache
+D:\SoftUni\Basics - C#\For Loop - Exercise\For Loop - Exercise\Ending on 7\obj\Debug\netcoreapp3.1\Ending on 7.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Basics - C#\For Loop - Exercise\For Loop - Exercise\Ending on 7\obj\Debug\netcoreapp3.1\Ending on 7.AssemblyInfoInputs.cache
+D:\SoftUni\Basics - C#\For Loop - Exercise\For Loop - Exercise\Ending on 7\obj\Debug\netcoreapp3.1\Ending on 7.AssemblyInfo.cs
+D:\SoftUni\Basics - C#\For Loop - Exercise\For Loop - Exercise\Ending on 7\obj\Debug\netcoreapp3.1\Ending on 7.csproj.CoreCompileInputs.cache
+D:\SoftUni\Basics - C#\For Loop - Exercise\For Loop - Exercise\Ending on 7\obj\Debug\netcoreapp3.1\Ending on 7.dll
+D:\SoftUni\Basics - C#\For Loop - Exercise\For Loop - Exercise\Ending on 7\obj\Debug\netcoreapp3.1\Ending on 7.pdb
+D:\SoftUni\Basics - C#\For Loop - Exercise\For Loop - Exercise\Ending on 7\obj\Debug\netcoreapp3.1\Ending on 7.genruntimeconfig.cache
