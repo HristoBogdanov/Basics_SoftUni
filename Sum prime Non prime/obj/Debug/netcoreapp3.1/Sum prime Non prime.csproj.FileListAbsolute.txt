@@ -1,0 +1,14 @@
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\Sum prime Non prime\bin\Debug\netcoreapp3.1\Sum prime Non prime.exe
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\Sum prime Non prime\bin\Debug\netcoreapp3.1\Sum prime Non prime.deps.json
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\Sum prime Non prime\bin\Debug\netcoreapp3.1\Sum prime Non prime.runtimeconfig.json
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\Sum prime Non prime\bin\Debug\netcoreapp3.1\Sum prime Non prime.runtimeconfig.dev.json
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\Sum prime Non prime\bin\Debug\netcoreapp3.1\Sum prime Non prime.dll
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\Sum prime Non prime\bin\Debug\netcoreapp3.1\Sum prime Non prime.pdb
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\Sum prime Non prime\obj\Debug\netcoreapp3.1\Sum prime Non prime.csproj.AssemblyReference.cache
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\Sum prime Non prime\obj\Debug\netcoreapp3.1\Sum prime Non prime.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\Sum prime Non prime\obj\Debug\netcoreapp3.1\Sum prime Non prime.AssemblyInfoInputs.cache
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\Sum prime Non prime\obj\Debug\netcoreapp3.1\Sum prime Non prime.AssemblyInfo.cs
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\Sum prime Non prime\obj\Debug\netcoreapp3.1\Sum prime Non prime.csproj.CoreCompileInputs.cache
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\Sum prime Non prime\obj\Debug\netcoreapp3.1\Sum prime Non prime.dll
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\Sum prime Non prime\obj\Debug\netcoreapp3.1\Sum prime Non prime.pdb
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\Sum prime Non prime\obj\Debug\netcoreapp3.1\Sum prime Non prime.genruntimeconfig.cache

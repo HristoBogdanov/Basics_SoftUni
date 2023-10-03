@@ -1,0 +1,13 @@
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\Train the trainers\bin\Debug\netcoreapp3.1\Train the trainers.exe
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\Train the trainers\bin\Debug\netcoreapp3.1\Train the trainers.deps.json
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\Train the trainers\bin\Debug\netcoreapp3.1\Train the trainers.runtimeconfig.json
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\Train the trainers\bin\Debug\netcoreapp3.1\Train the trainers.runtimeconfig.dev.json
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\Train the trainers\bin\Debug\netcoreapp3.1\Train the trainers.dll
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\Train the trainers\bin\Debug\netcoreapp3.1\Train the trainers.pdb
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\Train the trainers\obj\Debug\netcoreapp3.1\Train the trainers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\Train the trainers\obj\Debug\netcoreapp3.1\Train the trainers.AssemblyInfoInputs.cache
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\Train the trainers\obj\Debug\netcoreapp3.1\Train the trainers.AssemblyInfo.cs
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\Train the trainers\obj\Debug\netcoreapp3.1\Train the trainers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\Train the trainers\obj\Debug\netcoreapp3.1\Train the trainers.dll
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\Train the trainers\obj\Debug\netcoreapp3.1\Train the trainers.pdb
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\Train the trainers\obj\Debug\netcoreapp3.1\Train the trainers.genruntimeconfig.cache

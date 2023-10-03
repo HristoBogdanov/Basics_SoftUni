@@ -1,0 +1,14 @@
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\SumOddEven\bin\Debug\netcoreapp3.1\SumOddEven.exe
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\SumOddEven\bin\Debug\netcoreapp3.1\SumOddEven.deps.json
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\SumOddEven\bin\Debug\netcoreapp3.1\SumOddEven.runtimeconfig.json
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\SumOddEven\bin\Debug\netcoreapp3.1\SumOddEven.runtimeconfig.dev.json
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\SumOddEven\bin\Debug\netcoreapp3.1\SumOddEven.dll
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\SumOddEven\bin\Debug\netcoreapp3.1\SumOddEven.pdb
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\SumOddEven\obj\Debug\netcoreapp3.1\SumOddEven.csproj.AssemblyReference.cache
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\SumOddEven\obj\Debug\netcoreapp3.1\SumOddEven.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\SumOddEven\obj\Debug\netcoreapp3.1\SumOddEven.AssemblyInfoInputs.cache
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\SumOddEven\obj\Debug\netcoreapp3.1\SumOddEven.AssemblyInfo.cs
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\SumOddEven\obj\Debug\netcoreapp3.1\SumOddEven.csproj.CoreCompileInputs.cache
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\SumOddEven\obj\Debug\netcoreapp3.1\SumOddEven.dll
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\SumOddEven\obj\Debug\netcoreapp3.1\SumOddEven.pdb
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\SumOddEven\obj\Debug\netcoreapp3.1\SumOddEven.genruntimeconfig.cache
