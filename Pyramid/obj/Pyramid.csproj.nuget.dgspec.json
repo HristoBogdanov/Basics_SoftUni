@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\SoftUni\\Basics - C#\\Nested Loops - Exercise\\Nested Loops - Exercise\\Cinema\\Cinema.csproj": {}
+    "D:\\SoftUni\\Basics - C#\\Nested Loops - Exercise\\Nested Loops - Exercise\\Pyramid\\Pyramid.csproj": {}
   },
   "projects": {
-    "D:\\SoftUni\\Basics - C#\\Nested Loops - Exercise\\Nested Loops - Exercise\\Cinema\\Cinema.csproj": {
+    "D:\\SoftUni\\Basics - C#\\Nested Loops - Exercise\\Nested Loops - Exercise\\Pyramid\\Pyramid.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\SoftUni\\Basics - C#\\Nested Loops - Exercise\\Nested Loops - Exercise\\Cinema\\Cinema.csproj",
-        "projectName": "Cinema",
-        "projectPath": "D:\\SoftUni\\Basics - C#\\Nested Loops - Exercise\\Nested Loops - Exercise\\Cinema\\Cinema.csproj",
+        "projectUniqueName": "D:\\SoftUni\\Basics - C#\\Nested Loops - Exercise\\Nested Loops - Exercise\\Pyramid\\Pyramid.csproj",
+        "projectName": "Pyramid",
+        "projectPath": "D:\\SoftUni\\Basics - C#\\Nested Loops - Exercise\\Nested Loops - Exercise\\Pyramid\\Pyramid.csproj",
         "packagesPath": "C:\\Users\\hrist\\.nuget\\packages\\",
-        "outputPath": "D:\\SoftUni\\Basics - C#\\Nested Loops - Exercise\\Nested Loops - Exercise\\Cinema\\obj\\",
+        "outputPath": "D:\\SoftUni\\Basics - C#\\Nested Loops - Exercise\\Nested Loops - Exercise\\Pyramid\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hrist\\AppData\\Roaming\\NuGet\\NuGet.Config",

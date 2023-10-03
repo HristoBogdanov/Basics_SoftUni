@@ -1,0 +1,14 @@
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\Pyramid\bin\Debug\netcoreapp3.1\Pyramid.exe
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\Pyramid\bin\Debug\netcoreapp3.1\Pyramid.deps.json
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\Pyramid\bin\Debug\netcoreapp3.1\Pyramid.runtimeconfig.json
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\Pyramid\bin\Debug\netcoreapp3.1\Pyramid.runtimeconfig.dev.json
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\Pyramid\bin\Debug\netcoreapp3.1\Pyramid.dll
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\Pyramid\bin\Debug\netcoreapp3.1\Pyramid.pdb
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\Pyramid\obj\Debug\netcoreapp3.1\Pyramid.csproj.AssemblyReference.cache
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\Pyramid\obj\Debug\netcoreapp3.1\Pyramid.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\Pyramid\obj\Debug\netcoreapp3.1\Pyramid.AssemblyInfoInputs.cache
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\Pyramid\obj\Debug\netcoreapp3.1\Pyramid.AssemblyInfo.cs
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\Pyramid\obj\Debug\netcoreapp3.1\Pyramid.csproj.CoreCompileInputs.cache
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\Pyramid\obj\Debug\netcoreapp3.1\Pyramid.dll
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\Pyramid\obj\Debug\netcoreapp3.1\Pyramid.pdb
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\Pyramid\obj\Debug\netcoreapp3.1\Pyramid.genruntimeconfig.cache

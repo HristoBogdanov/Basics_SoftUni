@@ -1,14 +1,14 @@
-D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Cinema\bin\Debug\netcoreapp3.1\Cinema.exe
-D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Cinema\bin\Debug\netcoreapp3.1\Cinema.deps.json
-D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Cinema\bin\Debug\netcoreapp3.1\Cinema.runtimeconfig.json
-D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Cinema\bin\Debug\netcoreapp3.1\Cinema.runtimeconfig.dev.json
-D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Cinema\bin\Debug\netcoreapp3.1\Cinema.dll
-D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Cinema\bin\Debug\netcoreapp3.1\Cinema.pdb
-D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Cinema\obj\Debug\netcoreapp3.1\Cinema.csproj.AssemblyReference.cache
-D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Cinema\obj\Debug\netcoreapp3.1\Cinema.GeneratedMSBuildEditorConfig.editorconfig
-D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Cinema\obj\Debug\netcoreapp3.1\Cinema.AssemblyInfoInputs.cache
-D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Cinema\obj\Debug\netcoreapp3.1\Cinema.AssemblyInfo.cs
-D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Cinema\obj\Debug\netcoreapp3.1\Cinema.csproj.CoreCompileInputs.cache
-D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Cinema\obj\Debug\netcoreapp3.1\Cinema.dll
-D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Cinema\obj\Debug\netcoreapp3.1\Cinema.pdb
-D:\SoftUni\Basics - C#\Advanced conditionals - Exercise\Cinema\Cinema\obj\Debug\netcoreapp3.1\Cinema.genruntimeconfig.cache
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\Cinema\bin\Debug\netcoreapp3.1\Cinema.exe
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\Cinema\bin\Debug\netcoreapp3.1\Cinema.deps.json
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\Cinema\bin\Debug\netcoreapp3.1\Cinema.runtimeconfig.json
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\Cinema\bin\Debug\netcoreapp3.1\Cinema.runtimeconfig.dev.json
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\Cinema\bin\Debug\netcoreapp3.1\Cinema.dll
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\Cinema\bin\Debug\netcoreapp3.1\Cinema.pdb
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\Cinema\obj\Debug\netcoreapp3.1\Cinema.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\Cinema\obj\Debug\netcoreapp3.1\Cinema.AssemblyInfoInputs.cache
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\Cinema\obj\Debug\netcoreapp3.1\Cinema.AssemblyInfo.cs
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\Cinema\obj\Debug\netcoreapp3.1\Cinema.csproj.CoreCompileInputs.cache
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\Cinema\obj\Debug\netcoreapp3.1\Cinema.dll
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\Cinema\obj\Debug\netcoreapp3.1\Cinema.pdb
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\Cinema\obj\Debug\netcoreapp3.1\Cinema.genruntimeconfig.cache
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\Cinema\obj\Debug\netcoreapp3.1\Cinema.csproj.AssemblyReference.cache

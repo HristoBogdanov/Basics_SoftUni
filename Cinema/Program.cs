@@ -6,24 +6,37 @@ namespace Cinema
     {
         static void Main(string[] args)
         {
-            string projection = Console.ReadLine();
-            int rows = int.Parse(Console.ReadLine());
-            int columns = int.Parse(Console.ReadLine());
-
-            switch (projection)
+            string input = Console.ReadLine();
+            double studentsCount = 0;
+            double standartCount = 0;
+            double kidCount = 0;
+            double countTickets = 0;
+            double totalCount = 0;
+            while (input != "Finish")
             {
-                case "Premiere":
-                    Console.WriteLine($"{(12*rows*columns):f2} leva");
-                    break;
-                case "Normal":
-                    Console.WriteLine($"{(7.5 * rows * columns):f2} leva");
-                    break;
-                case "Discount":
-                    Console.WriteLine($"{(5 * rows * columns):f2} leva");
-                    break;
-                default: Console.WriteLine("error");
-                    break;
+                countTickets = 0;
+                string movie = input;
+                int capacity = int.Parse(Console.ReadLine());
+                string type = Console.ReadLine();
+                while (type != "End" && type!="Finish" && countTickets<capacity)
+                {
+                    if (type == "student") studentsCount++;
+                    else if (type == "standard") standartCount++;
+                    else if ((type == "kid")) kidCount++;
+
+                    countTickets++;
+                    if (countTickets == capacity) break;
+                    type = Console.ReadLine();
+                }
+                totalCount += countTickets;
+                Console.WriteLine($"{movie} - {((countTickets/capacity)*100):f2}% full.");
+                if (type == "Finish") break;
+                input = Console.ReadLine();
             }
+            Console.WriteLine($"Total tickets: {totalCount}");
+            Console.WriteLine($"{((studentsCount/totalCount)*100):f2}% student tickets.");
+            Console.WriteLine($"{((standartCount / totalCount) * 100):f2}% standard tickets.");
+            Console.WriteLine($"{((kidCount / totalCount) * 100):f2}% kids tickets.");
         }
     }
 }

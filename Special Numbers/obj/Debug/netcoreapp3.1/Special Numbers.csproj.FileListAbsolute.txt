@@ -1,0 +1,13 @@
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\Special Numbers\bin\Debug\netcoreapp3.1\Special Numbers.exe
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\Special Numbers\bin\Debug\netcoreapp3.1\Special Numbers.deps.json
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\Special Numbers\bin\Debug\netcoreapp3.1\Special Numbers.runtimeconfig.json
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\Special Numbers\bin\Debug\netcoreapp3.1\Special Numbers.runtimeconfig.dev.json
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\Special Numbers\bin\Debug\netcoreapp3.1\Special Numbers.dll
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\Special Numbers\bin\Debug\netcoreapp3.1\Special Numbers.pdb
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\Special Numbers\obj\Debug\netcoreapp3.1\Special Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\Special Numbers\obj\Debug\netcoreapp3.1\Special Numbers.AssemblyInfoInputs.cache
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\Special Numbers\obj\Debug\netcoreapp3.1\Special Numbers.AssemblyInfo.cs
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\Special Numbers\obj\Debug\netcoreapp3.1\Special Numbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\Special Numbers\obj\Debug\netcoreapp3.1\Special Numbers.dll
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\Special Numbers\obj\Debug\netcoreapp3.1\Special Numbers.pdb
+D:\SoftUni\Basics - C#\Nested Loops - Exercise\Nested Loops - Exercise\Special Numbers\obj\Debug\netcoreapp3.1\Special Numbers.genruntimeconfig.cache
