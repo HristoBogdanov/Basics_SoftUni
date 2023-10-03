@@ -1,0 +1,13 @@
+D:\SoftUni\Basics - C#\For Loop - Exercise\For Loop - Exercise\Oscars\bin\Debug\netcoreapp3.1\Oscars.exe
+D:\SoftUni\Basics - C#\For Loop - Exercise\For Loop - Exercise\Oscars\bin\Debug\netcoreapp3.1\Oscars.deps.json
+D:\SoftUni\Basics - C#\For Loop - Exercise\For Loop - Exercise\Oscars\bin\Debug\netcoreapp3.1\Oscars.runtimeconfig.json
+D:\SoftUni\Basics - C#\For Loop - Exercise\For Loop - Exercise\Oscars\bin\Debug\netcoreapp3.1\Oscars.runtimeconfig.dev.json
+D:\SoftUni\Basics - C#\For Loop - Exercise\For Loop - Exercise\Oscars\bin\Debug\netcoreapp3.1\Oscars.dll
+D:\SoftUni\Basics - C#\For Loop - Exercise\For Loop - Exercise\Oscars\bin\Debug\netcoreapp3.1\Oscars.pdb
+D:\SoftUni\Basics - C#\For Loop - Exercise\For Loop - Exercise\Oscars\obj\Debug\netcoreapp3.1\Oscars.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Basics - C#\For Loop - Exercise\For Loop - Exercise\Oscars\obj\Debug\netcoreapp3.1\Oscars.AssemblyInfoInputs.cache
+D:\SoftUni\Basics - C#\For Loop - Exercise\For Loop - Exercise\Oscars\obj\Debug\netcoreapp3.1\Oscars.AssemblyInfo.cs
+D:\SoftUni\Basics - C#\For Loop - Exercise\For Loop - Exercise\Oscars\obj\Debug\netcoreapp3.1\Oscars.csproj.CoreCompileInputs.cache
+D:\SoftUni\Basics - C#\For Loop - Exercise\For Loop - Exercise\Oscars\obj\Debug\netcoreapp3.1\Oscars.dll
+D:\SoftUni\Basics - C#\For Loop - Exercise\For Loop - Exercise\Oscars\obj\Debug\netcoreapp3.1\Oscars.pdb
+D:\SoftUni\Basics - C#\For Loop - Exercise\For Loop - Exercise\Oscars\obj\Debug\netcoreapp3.1\Oscars.genruntimeconfig.cache

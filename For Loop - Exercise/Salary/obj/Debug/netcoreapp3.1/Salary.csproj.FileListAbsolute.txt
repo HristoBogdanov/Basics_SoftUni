@@ -1,0 +1,13 @@
+D:\SoftUni\Basics - C#\For Loop - Exercise\For Loop - Exercise\Salary\bin\Debug\netcoreapp3.1\Salary.exe
+D:\SoftUni\Basics - C#\For Loop - Exercise\For Loop - Exercise\Salary\bin\Debug\netcoreapp3.1\Salary.deps.json
+D:\SoftUni\Basics - C#\For Loop - Exercise\For Loop - Exercise\Salary\bin\Debug\netcoreapp3.1\Salary.runtimeconfig.json
+D:\SoftUni\Basics - C#\For Loop - Exercise\For Loop - Exercise\Salary\bin\Debug\netcoreapp3.1\Salary.runtimeconfig.dev.json
+D:\SoftUni\Basics - C#\For Loop - Exercise\For Loop - Exercise\Salary\bin\Debug\netcoreapp3.1\Salary.dll
+D:\SoftUni\Basics - C#\For Loop - Exercise\For Loop - Exercise\Salary\bin\Debug\netcoreapp3.1\Salary.pdb
+D:\SoftUni\Basics - C#\For Loop - Exercise\For Loop - Exercise\Salary\obj\Debug\netcoreapp3.1\Salary.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Basics - C#\For Loop - Exercise\For Loop - Exercise\Salary\obj\Debug\netcoreapp3.1\Salary.AssemblyInfoInputs.cache
+D:\SoftUni\Basics - C#\For Loop - Exercise\For Loop - Exercise\Salary\obj\Debug\netcoreapp3.1\Salary.AssemblyInfo.cs
+D:\SoftUni\Basics - C#\For Loop - Exercise\For Loop - Exercise\Salary\obj\Debug\netcoreapp3.1\Salary.csproj.CoreCompileInputs.cache
+D:\SoftUni\Basics - C#\For Loop - Exercise\For Loop - Exercise\Salary\obj\Debug\netcoreapp3.1\Salary.dll
+D:\SoftUni\Basics - C#\For Loop - Exercise\For Loop - Exercise\Salary\obj\Debug\netcoreapp3.1\Salary.pdb
+D:\SoftUni\Basics - C#\For Loop - Exercise\For Loop - Exercise\Salary\obj\Debug\netcoreapp3.1\Salary.genruntimeconfig.cache

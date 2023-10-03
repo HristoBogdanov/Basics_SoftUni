@@ -1,0 +1,14 @@
+D:\SoftUni\Basics - C#\For Loop - Exercise\For Loop - Exercise\Sum equals\bin\Debug\netcoreapp3.1\Sum equals.exe
+D:\SoftUni\Basics - C#\For Loop - Exercise\For Loop - Exercise\Sum equals\bin\Debug\netcoreapp3.1\Sum equals.deps.json
+D:\SoftUni\Basics - C#\For Loop - Exercise\For Loop - Exercise\Sum equals\bin\Debug\netcoreapp3.1\Sum equals.runtimeconfig.json
+D:\SoftUni\Basics - C#\For Loop - Exercise\For Loop - Exercise\Sum equals\bin\Debug\netcoreapp3.1\Sum equals.runtimeconfig.dev.json
+D:\SoftUni\Basics - C#\For Loop - Exercise\For Loop - Exercise\Sum equals\bin\Debug\netcoreapp3.1\Sum equals.dll
+D:\SoftUni\Basics - C#\For Loop - Exercise\For Loop - Exercise\Sum equals\bin\Debug\netcoreapp3.1\Sum equals.pdb
+D:\SoftUni\Basics - C#\For Loop - Exercise\For Loop - Exercise\Sum equals\obj\Debug\netcoreapp3.1\Sum equals.csproj.AssemblyReference.cache
+D:\SoftUni\Basics - C#\For Loop - Exercise\For Loop - Exercise\Sum equals\obj\Debug\netcoreapp3.1\Sum equals.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Basics - C#\For Loop - Exercise\For Loop - Exercise\Sum equals\obj\Debug\netcoreapp3.1\Sum equals.AssemblyInfoInputs.cache
+D:\SoftUni\Basics - C#\For Loop - Exercise\For Loop - Exercise\Sum equals\obj\Debug\netcoreapp3.1\Sum equals.AssemblyInfo.cs
+D:\SoftUni\Basics - C#\For Loop - Exercise\For Loop - Exercise\Sum equals\obj\Debug\netcoreapp3.1\Sum equals.csproj.CoreCompileInputs.cache
+D:\SoftUni\Basics - C#\For Loop - Exercise\For Loop - Exercise\Sum equals\obj\Debug\netcoreapp3.1\Sum equals.dll
+D:\SoftUni\Basics - C#\For Loop - Exercise\For Loop - Exercise\Sum equals\obj\Debug\netcoreapp3.1\Sum equals.pdb
+D:\SoftUni\Basics - C#\For Loop - Exercise\For Loop - Exercise\Sum equals\obj\Debug\netcoreapp3.1\Sum equals.genruntimeconfig.cache
