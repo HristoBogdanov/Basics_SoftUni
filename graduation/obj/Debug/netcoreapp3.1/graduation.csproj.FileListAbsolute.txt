@@ -1,0 +1,13 @@
+D:\SoftUni\Basics - C#\While Loop\While Loop\graduation\bin\Debug\netcoreapp3.1\graduation.exe
+D:\SoftUni\Basics - C#\While Loop\While Loop\graduation\bin\Debug\netcoreapp3.1\graduation.deps.json
+D:\SoftUni\Basics - C#\While Loop\While Loop\graduation\bin\Debug\netcoreapp3.1\graduation.runtimeconfig.json
+D:\SoftUni\Basics - C#\While Loop\While Loop\graduation\bin\Debug\netcoreapp3.1\graduation.runtimeconfig.dev.json
+D:\SoftUni\Basics - C#\While Loop\While Loop\graduation\bin\Debug\netcoreapp3.1\graduation.dll
+D:\SoftUni\Basics - C#\While Loop\While Loop\graduation\bin\Debug\netcoreapp3.1\graduation.pdb
+D:\SoftUni\Basics - C#\While Loop\While Loop\graduation\obj\Debug\netcoreapp3.1\graduation.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Basics - C#\While Loop\While Loop\graduation\obj\Debug\netcoreapp3.1\graduation.AssemblyInfoInputs.cache
+D:\SoftUni\Basics - C#\While Loop\While Loop\graduation\obj\Debug\netcoreapp3.1\graduation.AssemblyInfo.cs
+D:\SoftUni\Basics - C#\While Loop\While Loop\graduation\obj\Debug\netcoreapp3.1\graduation.csproj.CoreCompileInputs.cache
+D:\SoftUni\Basics - C#\While Loop\While Loop\graduation\obj\Debug\netcoreapp3.1\graduation.dll
+D:\SoftUni\Basics - C#\While Loop\While Loop\graduation\obj\Debug\netcoreapp3.1\graduation.pdb
+D:\SoftUni\Basics - C#\While Loop\While Loop\graduation\obj\Debug\netcoreapp3.1\graduation.genruntimeconfig.cache

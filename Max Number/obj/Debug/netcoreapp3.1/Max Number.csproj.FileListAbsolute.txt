@@ -1,0 +1,13 @@
+D:\SoftUni\Basics - C#\While Loop\While Loop\Max Number\bin\Debug\netcoreapp3.1\Max Number.exe
+D:\SoftUni\Basics - C#\While Loop\While Loop\Max Number\bin\Debug\netcoreapp3.1\Max Number.deps.json
+D:\SoftUni\Basics - C#\While Loop\While Loop\Max Number\bin\Debug\netcoreapp3.1\Max Number.runtimeconfig.json
+D:\SoftUni\Basics - C#\While Loop\While Loop\Max Number\bin\Debug\netcoreapp3.1\Max Number.runtimeconfig.dev.json
+D:\SoftUni\Basics - C#\While Loop\While Loop\Max Number\bin\Debug\netcoreapp3.1\Max Number.dll
+D:\SoftUni\Basics - C#\While Loop\While Loop\Max Number\bin\Debug\netcoreapp3.1\Max Number.pdb
+D:\SoftUni\Basics - C#\While Loop\While Loop\Max Number\obj\Debug\netcoreapp3.1\Max Number.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Basics - C#\While Loop\While Loop\Max Number\obj\Debug\netcoreapp3.1\Max Number.AssemblyInfoInputs.cache
+D:\SoftUni\Basics - C#\While Loop\While Loop\Max Number\obj\Debug\netcoreapp3.1\Max Number.AssemblyInfo.cs
+D:\SoftUni\Basics - C#\While Loop\While Loop\Max Number\obj\Debug\netcoreapp3.1\Max Number.csproj.CoreCompileInputs.cache
+D:\SoftUni\Basics - C#\While Loop\While Loop\Max Number\obj\Debug\netcoreapp3.1\Max Number.dll
+D:\SoftUni\Basics - C#\While Loop\While Loop\Max Number\obj\Debug\netcoreapp3.1\Max Number.pdb
+D:\SoftUni\Basics - C#\While Loop\While Loop\Max Number\obj\Debug\netcoreapp3.1\Max Number.genruntimeconfig.cache

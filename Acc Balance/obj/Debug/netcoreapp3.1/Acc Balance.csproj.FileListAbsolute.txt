@@ -1,0 +1,13 @@
+D:\SoftUni\Basics - C#\While Loop\While Loop\Acc Balance\bin\Debug\netcoreapp3.1\Acc Balance.exe
+D:\SoftUni\Basics - C#\While Loop\While Loop\Acc Balance\bin\Debug\netcoreapp3.1\Acc Balance.deps.json
+D:\SoftUni\Basics - C#\While Loop\While Loop\Acc Balance\bin\Debug\netcoreapp3.1\Acc Balance.runtimeconfig.json
+D:\SoftUni\Basics - C#\While Loop\While Loop\Acc Balance\bin\Debug\netcoreapp3.1\Acc Balance.runtimeconfig.dev.json
+D:\SoftUni\Basics - C#\While Loop\While Loop\Acc Balance\bin\Debug\netcoreapp3.1\Acc Balance.dll
+D:\SoftUni\Basics - C#\While Loop\While Loop\Acc Balance\bin\Debug\netcoreapp3.1\Acc Balance.pdb
+D:\SoftUni\Basics - C#\While Loop\While Loop\Acc Balance\obj\Debug\netcoreapp3.1\Acc Balance.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Basics - C#\While Loop\While Loop\Acc Balance\obj\Debug\netcoreapp3.1\Acc Balance.AssemblyInfoInputs.cache
+D:\SoftUni\Basics - C#\While Loop\While Loop\Acc Balance\obj\Debug\netcoreapp3.1\Acc Balance.AssemblyInfo.cs
+D:\SoftUni\Basics - C#\While Loop\While Loop\Acc Balance\obj\Debug\netcoreapp3.1\Acc Balance.csproj.CoreCompileInputs.cache
+D:\SoftUni\Basics - C#\While Loop\While Loop\Acc Balance\obj\Debug\netcoreapp3.1\Acc Balance.dll
+D:\SoftUni\Basics - C#\While Loop\While Loop\Acc Balance\obj\Debug\netcoreapp3.1\Acc Balance.pdb
+D:\SoftUni\Basics - C#\While Loop\While Loop\Acc Balance\obj\Debug\netcoreapp3.1\Acc Balance.genruntimeconfig.cache
