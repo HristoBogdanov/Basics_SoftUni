@@ -1,0 +1,14 @@
+D:\SoftUni\Basics - C#\While Loop - Exercise\While Loop - Exercise\Old books\bin\Debug\netcoreapp3.1\Old books.exe
+D:\SoftUni\Basics - C#\While Loop - Exercise\While Loop - Exercise\Old books\bin\Debug\netcoreapp3.1\Old books.deps.json
+D:\SoftUni\Basics - C#\While Loop - Exercise\While Loop - Exercise\Old books\bin\Debug\netcoreapp3.1\Old books.runtimeconfig.json
+D:\SoftUni\Basics - C#\While Loop - Exercise\While Loop - Exercise\Old books\bin\Debug\netcoreapp3.1\Old books.runtimeconfig.dev.json
+D:\SoftUni\Basics - C#\While Loop - Exercise\While Loop - Exercise\Old books\bin\Debug\netcoreapp3.1\Old books.dll
+D:\SoftUni\Basics - C#\While Loop - Exercise\While Loop - Exercise\Old books\bin\Debug\netcoreapp3.1\Old books.pdb
+D:\SoftUni\Basics - C#\While Loop - Exercise\While Loop - Exercise\Old books\obj\Debug\netcoreapp3.1\Old books.csproj.AssemblyReference.cache
+D:\SoftUni\Basics - C#\While Loop - Exercise\While Loop - Exercise\Old books\obj\Debug\netcoreapp3.1\Old books.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Basics - C#\While Loop - Exercise\While Loop - Exercise\Old books\obj\Debug\netcoreapp3.1\Old books.AssemblyInfoInputs.cache
+D:\SoftUni\Basics - C#\While Loop - Exercise\While Loop - Exercise\Old books\obj\Debug\netcoreapp3.1\Old books.AssemblyInfo.cs
+D:\SoftUni\Basics - C#\While Loop - Exercise\While Loop - Exercise\Old books\obj\Debug\netcoreapp3.1\Old books.csproj.CoreCompileInputs.cache
+D:\SoftUni\Basics - C#\While Loop - Exercise\While Loop - Exercise\Old books\obj\Debug\netcoreapp3.1\Old books.dll
+D:\SoftUni\Basics - C#\While Loop - Exercise\While Loop - Exercise\Old books\obj\Debug\netcoreapp3.1\Old books.pdb
+D:\SoftUni\Basics - C#\While Loop - Exercise\While Loop - Exercise\Old books\obj\Debug\netcoreapp3.1\Old books.genruntimeconfig.cache
