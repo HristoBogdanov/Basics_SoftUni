@@ -1,0 +1,14 @@
+D:\SoftUni\Basics - C#\While Loop\While Loop\Read Text\bin\Debug\netcoreapp3.1\Read Text.exe
+D:\SoftUni\Basics - C#\While Loop\While Loop\Read Text\bin\Debug\netcoreapp3.1\Read Text.deps.json
+D:\SoftUni\Basics - C#\While Loop\While Loop\Read Text\bin\Debug\netcoreapp3.1\Read Text.runtimeconfig.json
+D:\SoftUni\Basics - C#\While Loop\While Loop\Read Text\bin\Debug\netcoreapp3.1\Read Text.runtimeconfig.dev.json
+D:\SoftUni\Basics - C#\While Loop\While Loop\Read Text\bin\Debug\netcoreapp3.1\Read Text.dll
+D:\SoftUni\Basics - C#\While Loop\While Loop\Read Text\bin\Debug\netcoreapp3.1\Read Text.pdb
+D:\SoftUni\Basics - C#\While Loop\While Loop\Read Text\obj\Debug\netcoreapp3.1\Read Text.csproj.AssemblyReference.cache
+D:\SoftUni\Basics - C#\While Loop\While Loop\Read Text\obj\Debug\netcoreapp3.1\Read Text.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Basics - C#\While Loop\While Loop\Read Text\obj\Debug\netcoreapp3.1\Read Text.AssemblyInfoInputs.cache
+D:\SoftUni\Basics - C#\While Loop\While Loop\Read Text\obj\Debug\netcoreapp3.1\Read Text.AssemblyInfo.cs
+D:\SoftUni\Basics - C#\While Loop\While Loop\Read Text\obj\Debug\netcoreapp3.1\Read Text.csproj.CoreCompileInputs.cache
+D:\SoftUni\Basics - C#\While Loop\While Loop\Read Text\obj\Debug\netcoreapp3.1\Read Text.dll
+D:\SoftUni\Basics - C#\While Loop\While Loop\Read Text\obj\Debug\netcoreapp3.1\Read Text.pdb
+D:\SoftUni\Basics - C#\While Loop\While Loop\Read Text\obj\Debug\netcoreapp3.1\Read Text.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\SoftUni\Basics - C#\While Loop\While Loop\Sum Numbers\bin\Debug\netcoreapp3.1\Sum Numbers.exe
+D:\SoftUni\Basics - C#\While Loop\While Loop\Sum Numbers\bin\Debug\netcoreapp3.1\Sum Numbers.deps.json
+D:\SoftUni\Basics - C#\While Loop\While Loop\Sum Numbers\bin\Debug\netcoreapp3.1\Sum Numbers.runtimeconfig.json
+D:\SoftUni\Basics - C#\While Loop\While Loop\Sum Numbers\bin\Debug\netcoreapp3.1\Sum Numbers.runtimeconfig.dev.json
+D:\SoftUni\Basics - C#\While Loop\While Loop\Sum Numbers\bin\Debug\netcoreapp3.1\Sum Numbers.dll
+D:\SoftUni\Basics - C#\While Loop\While Loop\Sum Numbers\bin\Debug\netcoreapp3.1\Sum Numbers.pdb
+D:\SoftUni\Basics - C#\While Loop\While Loop\Sum Numbers\obj\Debug\netcoreapp3.1\Sum Numbers.csproj.AssemblyReference.cache
+D:\SoftUni\Basics - C#\While Loop\While Loop\Sum Numbers\obj\Debug\netcoreapp3.1\Sum Numbers.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Basics - C#\While Loop\While Loop\Sum Numbers\obj\Debug\netcoreapp3.1\Sum Numbers.AssemblyInfoInputs.cache
+D:\SoftUni\Basics - C#\While Loop\While Loop\Sum Numbers\obj\Debug\netcoreapp3.1\Sum Numbers.AssemblyInfo.cs
+D:\SoftUni\Basics - C#\While Loop\While Loop\Sum Numbers\obj\Debug\netcoreapp3.1\Sum Numbers.csproj.CoreCompileInputs.cache
+D:\SoftUni\Basics - C#\While Loop\While Loop\Sum Numbers\obj\Debug\netcoreapp3.1\Sum Numbers.dll
+D:\SoftUni\Basics - C#\While Loop\While Loop\Sum Numbers\obj\Debug\netcoreapp3.1\Sum Numbers.pdb
+D:\SoftUni\Basics - C#\While Loop\While Loop\Sum Numbers\obj\Debug\netcoreapp3.1\Sum Numbers.genruntimeconfig.cache
