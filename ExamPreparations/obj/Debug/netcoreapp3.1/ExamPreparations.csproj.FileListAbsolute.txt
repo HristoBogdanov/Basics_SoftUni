@@ -1,0 +1,14 @@
+D:\SoftUni\Basics - C#\While Loop - Exercise\While Loop - Exercise\ExamPreparations\obj\Debug\netcoreapp3.1\ExamPreparations.csproj.AssemblyReference.cache
+D:\SoftUni\Basics - C#\While Loop - Exercise\While Loop - Exercise\ExamPreparations\obj\Debug\netcoreapp3.1\ExamPreparations.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Basics - C#\While Loop - Exercise\While Loop - Exercise\ExamPreparations\obj\Debug\netcoreapp3.1\ExamPreparations.AssemblyInfoInputs.cache
+D:\SoftUni\Basics - C#\While Loop - Exercise\While Loop - Exercise\ExamPreparations\obj\Debug\netcoreapp3.1\ExamPreparations.AssemblyInfo.cs
+D:\SoftUni\Basics - C#\While Loop - Exercise\While Loop - Exercise\ExamPreparations\obj\Debug\netcoreapp3.1\ExamPreparations.csproj.CoreCompileInputs.cache
+D:\SoftUni\Basics - C#\While Loop - Exercise\While Loop - Exercise\ExamPreparations\bin\Debug\netcoreapp3.1\ExamPreparations.exe
+D:\SoftUni\Basics - C#\While Loop - Exercise\While Loop - Exercise\ExamPreparations\bin\Debug\netcoreapp3.1\ExamPreparations.deps.json
+D:\SoftUni\Basics - C#\While Loop - Exercise\While Loop - Exercise\ExamPreparations\bin\Debug\netcoreapp3.1\ExamPreparations.runtimeconfig.json
+D:\SoftUni\Basics - C#\While Loop - Exercise\While Loop - Exercise\ExamPreparations\bin\Debug\netcoreapp3.1\ExamPreparations.runtimeconfig.dev.json
+D:\SoftUni\Basics - C#\While Loop - Exercise\While Loop - Exercise\ExamPreparations\bin\Debug\netcoreapp3.1\ExamPreparations.dll
+D:\SoftUni\Basics - C#\While Loop - Exercise\While Loop - Exercise\ExamPreparations\bin\Debug\netcoreapp3.1\ExamPreparations.pdb
+D:\SoftUni\Basics - C#\While Loop - Exercise\While Loop - Exercise\ExamPreparations\obj\Debug\netcoreapp3.1\ExamPreparations.dll
+D:\SoftUni\Basics - C#\While Loop - Exercise\While Loop - Exercise\ExamPreparations\obj\Debug\netcoreapp3.1\ExamPreparations.pdb
+D:\SoftUni\Basics - C#\While Loop - Exercise\While Loop - Exercise\ExamPreparations\obj\Debug\netcoreapp3.1\ExamPreparations.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+D:\SoftUni\Basics - C#\While Loop - Exercise\While Loop - Exercise\Change\bin\Debug\netcoreapp3.1\Change.exe
+D:\SoftUni\Basics - C#\While Loop - Exercise\While Loop - Exercise\Change\bin\Debug\netcoreapp3.1\Change.deps.json
+D:\SoftUni\Basics - C#\While Loop - Exercise\While Loop - Exercise\Change\bin\Debug\netcoreapp3.1\Change.runtimeconfig.json
+D:\SoftUni\Basics - C#\While Loop - Exercise\While Loop - Exercise\Change\bin\Debug\netcoreapp3.1\Change.runtimeconfig.dev.json
+D:\SoftUni\Basics - C#\While Loop - Exercise\While Loop - Exercise\Change\bin\Debug\netcoreapp3.1\Change.dll
+D:\SoftUni\Basics - C#\While Loop - Exercise\While Loop - Exercise\Change\bin\Debug\netcoreapp3.1\Change.pdb
+D:\SoftUni\Basics - C#\While Loop - Exercise\While Loop - Exercise\Change\obj\Debug\netcoreapp3.1\Change.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Basics - C#\While Loop - Exercise\While Loop - Exercise\Change\obj\Debug\netcoreapp3.1\Change.AssemblyInfoInputs.cache
+D:\SoftUni\Basics - C#\While Loop - Exercise\While Loop - Exercise\Change\obj\Debug\netcoreapp3.1\Change.AssemblyInfo.cs
+D:\SoftUni\Basics - C#\While Loop - Exercise\While Loop - Exercise\Change\obj\Debug\netcoreapp3.1\Change.csproj.CoreCompileInputs.cache
+D:\SoftUni\Basics - C#\While Loop - Exercise\While Loop - Exercise\Change\obj\Debug\netcoreapp3.1\Change.dll
+D:\SoftUni\Basics - C#\While Loop - Exercise\While Loop - Exercise\Change\obj\Debug\netcoreapp3.1\Change.pdb
+D:\SoftUni\Basics - C#\While Loop - Exercise\While Loop - Exercise\Change\obj\Debug\netcoreapp3.1\Change.genruntimeconfig.cache

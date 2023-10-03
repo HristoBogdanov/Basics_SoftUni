@@ -1,0 +1,14 @@
+D:\SoftUni\Basics - C#\While Loop - Exercise\While Loop - Exercise\footwork\bin\Debug\netcoreapp3.1\footwork.exe
+D:\SoftUni\Basics - C#\While Loop - Exercise\While Loop - Exercise\footwork\bin\Debug\netcoreapp3.1\footwork.deps.json
+D:\SoftUni\Basics - C#\While Loop - Exercise\While Loop - Exercise\footwork\bin\Debug\netcoreapp3.1\footwork.runtimeconfig.json
+D:\SoftUni\Basics - C#\While Loop - Exercise\While Loop - Exercise\footwork\bin\Debug\netcoreapp3.1\footwork.runtimeconfig.dev.json
+D:\SoftUni\Basics - C#\While Loop - Exercise\While Loop - Exercise\footwork\bin\Debug\netcoreapp3.1\footwork.dll
+D:\SoftUni\Basics - C#\While Loop - Exercise\While Loop - Exercise\footwork\bin\Debug\netcoreapp3.1\footwork.pdb
+D:\SoftUni\Basics - C#\While Loop - Exercise\While Loop - Exercise\footwork\obj\Debug\netcoreapp3.1\footwork.csproj.AssemblyReference.cache
+D:\SoftUni\Basics - C#\While Loop - Exercise\While Loop - Exercise\footwork\obj\Debug\netcoreapp3.1\footwork.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Basics - C#\While Loop - Exercise\While Loop - Exercise\footwork\obj\Debug\netcoreapp3.1\footwork.AssemblyInfoInputs.cache
+D:\SoftUni\Basics - C#\While Loop - Exercise\While Loop - Exercise\footwork\obj\Debug\netcoreapp3.1\footwork.AssemblyInfo.cs
+D:\SoftUni\Basics - C#\While Loop - Exercise\While Loop - Exercise\footwork\obj\Debug\netcoreapp3.1\footwork.csproj.CoreCompileInputs.cache
+D:\SoftUni\Basics - C#\While Loop - Exercise\While Loop - Exercise\footwork\obj\Debug\netcoreapp3.1\footwork.dll
+D:\SoftUni\Basics - C#\While Loop - Exercise\While Loop - Exercise\footwork\obj\Debug\netcoreapp3.1\footwork.pdb
+D:\SoftUni\Basics - C#\While Loop - Exercise\While Loop - Exercise\footwork\obj\Debug\netcoreapp3.1\footwork.genruntimeconfig.cache
