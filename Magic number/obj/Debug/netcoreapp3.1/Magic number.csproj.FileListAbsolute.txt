@@ -1,0 +1,13 @@
+D:\SoftUni\Basics - C#\Nested Loops\Nested Loops\Magic number\bin\Debug\netcoreapp3.1\Magic number.exe
+D:\SoftUni\Basics - C#\Nested Loops\Nested Loops\Magic number\bin\Debug\netcoreapp3.1\Magic number.deps.json
+D:\SoftUni\Basics - C#\Nested Loops\Nested Loops\Magic number\bin\Debug\netcoreapp3.1\Magic number.runtimeconfig.json
+D:\SoftUni\Basics - C#\Nested Loops\Nested Loops\Magic number\bin\Debug\netcoreapp3.1\Magic number.runtimeconfig.dev.json
+D:\SoftUni\Basics - C#\Nested Loops\Nested Loops\Magic number\bin\Debug\netcoreapp3.1\Magic number.dll
+D:\SoftUni\Basics - C#\Nested Loops\Nested Loops\Magic number\bin\Debug\netcoreapp3.1\Magic number.pdb
+D:\SoftUni\Basics - C#\Nested Loops\Nested Loops\Magic number\obj\Debug\netcoreapp3.1\Magic number.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Basics - C#\Nested Loops\Nested Loops\Magic number\obj\Debug\netcoreapp3.1\Magic number.AssemblyInfoInputs.cache
+D:\SoftUni\Basics - C#\Nested Loops\Nested Loops\Magic number\obj\Debug\netcoreapp3.1\Magic number.AssemblyInfo.cs
+D:\SoftUni\Basics - C#\Nested Loops\Nested Loops\Magic number\obj\Debug\netcoreapp3.1\Magic number.csproj.CoreCompileInputs.cache
+D:\SoftUni\Basics - C#\Nested Loops\Nested Loops\Magic number\obj\Debug\netcoreapp3.1\Magic number.dll
+D:\SoftUni\Basics - C#\Nested Loops\Nested Loops\Magic number\obj\Debug\netcoreapp3.1\Magic number.pdb
+D:\SoftUni\Basics - C#\Nested Loops\Nested Loops\Magic number\obj\Debug\netcoreapp3.1\Magic number.genruntimeconfig.cache

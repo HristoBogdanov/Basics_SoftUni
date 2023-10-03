@@ -1,0 +1,13 @@
+D:\SoftUni\Basics - C#\Nested Loops\Nested Loops\Travelling\bin\Debug\netcoreapp3.1\Travelling.exe
+D:\SoftUni\Basics - C#\Nested Loops\Nested Loops\Travelling\bin\Debug\netcoreapp3.1\Travelling.deps.json
+D:\SoftUni\Basics - C#\Nested Loops\Nested Loops\Travelling\bin\Debug\netcoreapp3.1\Travelling.runtimeconfig.json
+D:\SoftUni\Basics - C#\Nested Loops\Nested Loops\Travelling\bin\Debug\netcoreapp3.1\Travelling.runtimeconfig.dev.json
+D:\SoftUni\Basics - C#\Nested Loops\Nested Loops\Travelling\bin\Debug\netcoreapp3.1\Travelling.dll
+D:\SoftUni\Basics - C#\Nested Loops\Nested Loops\Travelling\bin\Debug\netcoreapp3.1\Travelling.pdb
+D:\SoftUni\Basics - C#\Nested Loops\Nested Loops\Travelling\obj\Debug\netcoreapp3.1\Travelling.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Basics - C#\Nested Loops\Nested Loops\Travelling\obj\Debug\netcoreapp3.1\Travelling.AssemblyInfoInputs.cache
+D:\SoftUni\Basics - C#\Nested Loops\Nested Loops\Travelling\obj\Debug\netcoreapp3.1\Travelling.AssemblyInfo.cs
+D:\SoftUni\Basics - C#\Nested Loops\Nested Loops\Travelling\obj\Debug\netcoreapp3.1\Travelling.csproj.CoreCompileInputs.cache
+D:\SoftUni\Basics - C#\Nested Loops\Nested Loops\Travelling\obj\Debug\netcoreapp3.1\Travelling.dll
+D:\SoftUni\Basics - C#\Nested Loops\Nested Loops\Travelling\obj\Debug\netcoreapp3.1\Travelling.pdb
+D:\SoftUni\Basics - C#\Nested Loops\Nested Loops\Travelling\obj\Debug\netcoreapp3.1\Travelling.genruntimeconfig.cache
