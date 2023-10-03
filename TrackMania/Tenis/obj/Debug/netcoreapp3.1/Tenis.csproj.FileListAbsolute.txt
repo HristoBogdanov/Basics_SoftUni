@@ -1,0 +1,14 @@
+D:\SoftUni\Basics - C#\For Loop - Exercise\TrackMania\Tenis\bin\Debug\netcoreapp3.1\Tenis.exe
+D:\SoftUni\Basics - C#\For Loop - Exercise\TrackMania\Tenis\bin\Debug\netcoreapp3.1\Tenis.deps.json
+D:\SoftUni\Basics - C#\For Loop - Exercise\TrackMania\Tenis\bin\Debug\netcoreapp3.1\Tenis.runtimeconfig.json
+D:\SoftUni\Basics - C#\For Loop - Exercise\TrackMania\Tenis\bin\Debug\netcoreapp3.1\Tenis.runtimeconfig.dev.json
+D:\SoftUni\Basics - C#\For Loop - Exercise\TrackMania\Tenis\bin\Debug\netcoreapp3.1\Tenis.dll
+D:\SoftUni\Basics - C#\For Loop - Exercise\TrackMania\Tenis\bin\Debug\netcoreapp3.1\Tenis.pdb
+D:\SoftUni\Basics - C#\For Loop - Exercise\TrackMania\Tenis\obj\Debug\netcoreapp3.1\Tenis.csproj.AssemblyReference.cache
+D:\SoftUni\Basics - C#\For Loop - Exercise\TrackMania\Tenis\obj\Debug\netcoreapp3.1\Tenis.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Basics - C#\For Loop - Exercise\TrackMania\Tenis\obj\Debug\netcoreapp3.1\Tenis.AssemblyInfoInputs.cache
+D:\SoftUni\Basics - C#\For Loop - Exercise\TrackMania\Tenis\obj\Debug\netcoreapp3.1\Tenis.AssemblyInfo.cs
+D:\SoftUni\Basics - C#\For Loop - Exercise\TrackMania\Tenis\obj\Debug\netcoreapp3.1\Tenis.csproj.CoreCompileInputs.cache
+D:\SoftUni\Basics - C#\For Loop - Exercise\TrackMania\Tenis\obj\Debug\netcoreapp3.1\Tenis.dll
+D:\SoftUni\Basics - C#\For Loop - Exercise\TrackMania\Tenis\obj\Debug\netcoreapp3.1\Tenis.pdb
+D:\SoftUni\Basics - C#\For Loop - Exercise\TrackMania\Tenis\obj\Debug\netcoreapp3.1\Tenis.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+D:\SoftUni\Basics - C#\For Loop - Exercise\TrackMania\TrackMania\bin\Debug\netcoreapp3.1\TrackMania.exe
+D:\SoftUni\Basics - C#\For Loop - Exercise\TrackMania\TrackMania\bin\Debug\netcoreapp3.1\TrackMania.deps.json
+D:\SoftUni\Basics - C#\For Loop - Exercise\TrackMania\TrackMania\bin\Debug\netcoreapp3.1\TrackMania.runtimeconfig.json
+D:\SoftUni\Basics - C#\For Loop - Exercise\TrackMania\TrackMania\bin\Debug\netcoreapp3.1\TrackMania.runtimeconfig.dev.json
+D:\SoftUni\Basics - C#\For Loop - Exercise\TrackMania\TrackMania\bin\Debug\netcoreapp3.1\TrackMania.dll
+D:\SoftUni\Basics - C#\For Loop - Exercise\TrackMania\TrackMania\bin\Debug\netcoreapp3.1\TrackMania.pdb
+D:\SoftUni\Basics - C#\For Loop - Exercise\TrackMania\TrackMania\obj\Debug\netcoreapp3.1\TrackMania.csproj.AssemblyReference.cache
+D:\SoftUni\Basics - C#\For Loop - Exercise\TrackMania\TrackMania\obj\Debug\netcoreapp3.1\TrackMania.GeneratedMSBuildEditorConfig.editorconfig
+D:\SoftUni\Basics - C#\For Loop - Exercise\TrackMania\TrackMania\obj\Debug\netcoreapp3.1\TrackMania.AssemblyInfoInputs.cache
+D:\SoftUni\Basics - C#\For Loop - Exercise\TrackMania\TrackMania\obj\Debug\netcoreapp3.1\TrackMania.AssemblyInfo.cs
+D:\SoftUni\Basics - C#\For Loop - Exercise\TrackMania\TrackMania\obj\Debug\netcoreapp3.1\TrackMania.csproj.CoreCompileInputs.cache
+D:\SoftUni\Basics - C#\For Loop - Exercise\TrackMania\TrackMania\obj\Debug\netcoreapp3.1\TrackMania.dll
+D:\SoftUni\Basics - C#\For Loop - Exercise\TrackMania\TrackMania\obj\Debug\netcoreapp3.1\TrackMania.pdb
+D:\SoftUni\Basics - C#\For Loop - Exercise\TrackMania\TrackMania\obj\Debug\netcoreapp3.1\TrackMania.genruntimeconfig.cache
